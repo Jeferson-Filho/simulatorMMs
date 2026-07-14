@@ -8,16 +8,6 @@ from gerador_aleatorio import GeradorAleatorio, exibir_resultados
 
 
 def validar_entrada(semente, quantidade):
-    """
-    Valida os parâmetros de entrada.
-    
-    Args:
-        semente: Valor da semente
-        quantidade: Quantidade de números a gerar
-    
-    Returns:
-        Tupla (semente_válida, quantidade_válida) ou (None, None) se inválido
-    """
     try:
         semente_int = int(semente)
         quantidade_int = int(quantidade)
@@ -38,30 +28,11 @@ def validar_entrada(semente, quantidade):
 
 
 def gerar_numeros(semente, quantidade=10):
-    """
-    Gera números pseudoaleatórios para uma determinada semente.
-    Descarta automaticamente os 2 primeiros números (tendenciosos).
-    
-    Args:
-        semente: Valor da semente
-        quantidade: Quantidade de números a gerar (após descartar os 2 primeiros)
-    
-    Returns:
-        Lista de tuplas (x(i), número_pseudoaleatório)
-    """
     gerador = GeradorAleatorio(semente)
     return gerador.gerar_sequencia(quantidade, desconsiderar_primeiros=2)
 
 
 def salvar_resultados(semente, quantidade, caminho_arquivo):
-    """
-    Salva os resultados em um arquivo CSV.
-    
-    Args:
-        semente: Valor da semente
-        quantidade: Quantidade de números
-        caminho_arquivo: Caminho do arquivo de saída
-    """
     try:
         sequencia = gerar_numeros(semente, quantidade)
         
@@ -77,7 +48,6 @@ def salvar_resultados(semente, quantidade, caminho_arquivo):
 
 
 def exibir_uso():
-    """Exibe informações de uso do programa."""
     print("\n" + "="*70)
     print("GERADOR DE NÚMEROS PSEUDOALEATÓRIOS")
     print("="*70)
@@ -96,14 +66,6 @@ def exibir_uso():
 
 
 def comparar_seeds(semente1, semente2, quantidade=5):
-    """
-    Compara as sequências de dois seeds diferentes.
-    
-    Args:
-        semente1: Primeira semente
-        semente2: Segunda semente
-        quantidade: Quantidade de números a gerar
-    """
     seq1 = gerar_numeros(semente1, quantidade)
     seq2 = gerar_numeros(semente2, quantidade)
     
@@ -121,12 +83,6 @@ def comparar_seeds(semente1, semente2, quantidade=5):
 
 
 def executar(argumentos):
-    """
-    Executa o programa baseado nos argumentos fornecidos.
-    
-    Args:
-        argumentos: Lista de argumentos do comando
-    """
     if not argumentos or argumentos[0] == "help":
         exibir_uso()
         return
