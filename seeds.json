@@ -1,0 +1,6002 @@
+[
+  {
+    "rodada": 1,
+    "replicacao": 1,
+    "seed_tec": 1382,
+    "seed_ts": 1744
+  },
+  {
+    "rodada": 1,
+    "replicacao": 2,
+    "seed_tec": 810,
+    "seed_ts": 1548
+  },
+  {
+    "rodada": 1,
+    "replicacao": 3,
+    "seed_tec": 807,
+    "seed_ts": 910
+  },
+  {
+    "rodada": 1,
+    "replicacao": 4,
+    "seed_tec": 164,
+    "seed_ts": 182
+  },
+  {
+    "rodada": 1,
+    "replicacao": 5,
+    "seed_tec": 1501,
+    "seed_ts": 701
+  },
+  {
+    "rodada": 1,
+    "replicacao": 6,
+    "seed_tec": 465,
+    "seed_ts": 282
+  },
+  {
+    "rodada": 1,
+    "replicacao": 7,
+    "seed_tec": 779,
+    "seed_ts": 467
+  },
+  {
+    "rodada": 1,
+    "replicacao": 8,
+    "seed_tec": 900,
+    "seed_ts": 1955
+  },
+  {
+    "rodada": 1,
+    "replicacao": 9,
+    "seed_tec": 1936,
+    "seed_ts": 96
+  },
+  {
+    "rodada": 1,
+    "replicacao": 10,
+    "seed_tec": 1316,
+    "seed_ts": 1749
+  },
+  {
+    "rodada": 1,
+    "replicacao": 11,
+    "seed_tec": 217,
+    "seed_ts": 15
+  },
+  {
+    "rodada": 1,
+    "replicacao": 12,
+    "seed_tec": 833,
+    "seed_ts": 140
+  },
+  {
+    "rodada": 1,
+    "replicacao": 13,
+    "seed_tec": 337,
+    "seed_ts": 901
+  },
+  {
+    "rodada": 1,
+    "replicacao": 14,
+    "seed_tec": 587,
+    "seed_ts": 1516
+  },
+  {
+    "rodada": 1,
+    "replicacao": 15,
+    "seed_tec": 1285,
+    "seed_ts": 660
+  },
+  {
+    "rodada": 1,
+    "replicacao": 16,
+    "seed_tec": 228,
+    "seed_ts": 1394
+  },
+  {
+    "rodada": 1,
+    "replicacao": 17,
+    "seed_tec": 733,
+    "seed_ts": 1822
+  },
+  {
+    "rodada": 1,
+    "replicacao": 18,
+    "seed_tec": 7,
+    "seed_ts": 1660
+  },
+  {
+    "rodada": 1,
+    "replicacao": 19,
+    "seed_tec": 47,
+    "seed_ts": 1387
+  },
+  {
+    "rodada": 1,
+    "replicacao": 20,
+    "seed_tec": 323,
+    "seed_ts": 518
+  },
+  {
+    "rodada": 1,
+    "replicacao": 21,
+    "seed_tec": 1899,
+    "seed_ts": 569
+  },
+  {
+    "rodada": 1,
+    "replicacao": 22,
+    "seed_tec": 1513,
+    "seed_ts": 1062
+  },
+  {
+    "rodada": 1,
+    "replicacao": 23,
+    "seed_tec": 1236,
+    "seed_ts": 342
+  },
+  {
+    "rodada": 1,
+    "replicacao": 24,
+    "seed_tec": 749,
+    "seed_ts": 1289
+  },
+  {
+    "rodada": 1,
+    "replicacao": 25,
+    "seed_tec": 145,
+    "seed_ts": 1723
+  },
+  {
+    "rodada": 1,
+    "replicacao": 26,
+    "seed_tec": 1707,
+    "seed_ts": 907
+  },
+  {
+    "rodada": 1,
+    "replicacao": 27,
+    "seed_tec": 1656,
+    "seed_ts": 1944
+  },
+  {
+    "rodada": 1,
+    "replicacao": 28,
+    "seed_tec": 462,
+    "seed_ts": 141
+  },
+  {
+    "rodada": 1,
+    "replicacao": 29,
+    "seed_tec": 1504,
+    "seed_ts": 181
+  },
+  {
+    "rodada": 1,
+    "replicacao": 30,
+    "seed_tec": 522,
+    "seed_ts": 1182
+  },
+  {
+    "rodada": 1,
+    "replicacao": 31,
+    "seed_tec": 1956,
+    "seed_ts": 341
+  },
+  {
+    "rodada": 1,
+    "replicacao": 32,
+    "seed_tec": 1856,
+    "seed_ts": 1816
+  },
+  {
+    "rodada": 1,
+    "replicacao": 33,
+    "seed_tec": 532,
+    "seed_ts": 484
+  },
+  {
+    "rodada": 1,
+    "replicacao": 34,
+    "seed_tec": 579,
+    "seed_ts": 1319
+  },
+  {
+    "rodada": 1,
+    "replicacao": 35,
+    "seed_tec": 1509,
+    "seed_ts": 1073
+  },
+  {
+    "rodada": 1,
+    "replicacao": 36,
+    "seed_tec": 626,
+    "seed_ts": 1629
+  },
+  {
+    "rodada": 1,
+    "replicacao": 37,
+    "seed_tec": 968,
+    "seed_ts": 1263
+  },
+  {
+    "rodada": 1,
+    "replicacao": 38,
+    "seed_tec": 1986,
+    "seed_ts": 1563
+  },
+  {
+    "rodada": 1,
+    "replicacao": 39,
+    "seed_tec": 1808,
+    "seed_ts": 1891
+  },
+  {
+    "rodada": 1,
+    "replicacao": 40,
+    "seed_tec": 1990,
+    "seed_ts": 917
+  },
+  {
+    "rodada": 1,
+    "replicacao": 41,
+    "seed_tec": 1134,
+    "seed_ts": 1514
+  },
+  {
+    "rodada": 1,
+    "replicacao": 42,
+    "seed_tec": 793,
+    "seed_ts": 1681
+  },
+  {
+    "rodada": 1,
+    "replicacao": 43,
+    "seed_tec": 67,
+    "seed_ts": 493
+  },
+  {
+    "rodada": 1,
+    "replicacao": 44,
+    "seed_tec": 103,
+    "seed_ts": 542
+  },
+  {
+    "rodada": 1,
+    "replicacao": 45,
+    "seed_tec": 203,
+    "seed_ts": 206
+  },
+  {
+    "rodada": 1,
+    "replicacao": 46,
+    "seed_tec": 264,
+    "seed_ts": 352
+  },
+  {
+    "rodada": 1,
+    "replicacao": 47,
+    "seed_tec": 41,
+    "seed_ts": 454
+  },
+  {
+    "rodada": 1,
+    "replicacao": 48,
+    "seed_tec": 1174,
+    "seed_ts": 784
+  },
+  {
+    "rodada": 1,
+    "replicacao": 49,
+    "seed_tec": 760,
+    "seed_ts": 502
+  },
+  {
+    "rodada": 1,
+    "replicacao": 50,
+    "seed_tec": 9,
+    "seed_ts": 499
+  },
+  {
+    "rodada": 1,
+    "replicacao": 51,
+    "seed_tec": 44,
+    "seed_ts": 933
+  },
+  {
+    "rodada": 1,
+    "replicacao": 52,
+    "seed_tec": 1933,
+    "seed_ts": 1687
+  },
+  {
+    "rodada": 1,
+    "replicacao": 53,
+    "seed_tec": 1301,
+    "seed_ts": 607
+  },
+  {
+    "rodada": 1,
+    "replicacao": 54,
+    "seed_tec": 899,
+    "seed_ts": 1299
+  },
+  {
+    "rodada": 1,
+    "replicacao": 55,
+    "seed_tec": 742,
+    "seed_ts": 584
+  },
+  {
+    "rodada": 1,
+    "replicacao": 56,
+    "seed_tec": 1589,
+    "seed_ts": 1400
+  },
+  {
+    "rodada": 1,
+    "replicacao": 57,
+    "seed_tec": 1255,
+    "seed_ts": 1108
+  },
+  {
+    "rodada": 1,
+    "replicacao": 58,
+    "seed_tec": 1883,
+    "seed_ts": 978
+  },
+  {
+    "rodada": 1,
+    "replicacao": 59,
+    "seed_tec": 1215,
+    "seed_ts": 514
+  },
+  {
+    "rodada": 1,
+    "replicacao": 60,
+    "seed_tec": 80,
+    "seed_ts": 719
+  },
+  {
+    "rodada": 1,
+    "replicacao": 61,
+    "seed_tec": 187,
+    "seed_ts": 1152
+  },
+  {
+    "rodada": 1,
+    "replicacao": 62,
+    "seed_tec": 1339,
+    "seed_ts": 829
+  },
+  {
+    "rodada": 1,
+    "replicacao": 63,
+    "seed_tec": 1570,
+    "seed_ts": 902
+  },
+  {
+    "rodada": 1,
+    "replicacao": 64,
+    "seed_tec": 1347,
+    "seed_ts": 192
+  },
+  {
+    "rodada": 1,
+    "replicacao": 65,
+    "seed_tec": 1843,
+    "seed_ts": 1821
+  },
+  {
+    "rodada": 1,
+    "replicacao": 66,
+    "seed_tec": 50,
+    "seed_ts": 871
+  },
+  {
+    "rodada": 1,
+    "replicacao": 67,
+    "seed_tec": 1407,
+    "seed_ts": 290
+  },
+  {
+    "rodada": 1,
+    "replicacao": 68,
+    "seed_tec": 229,
+    "seed_ts": 1851
+  },
+  {
+    "rodada": 1,
+    "replicacao": 69,
+    "seed_tec": 209,
+    "seed_ts": 1247
+  },
+  {
+    "rodada": 1,
+    "replicacao": 70,
+    "seed_tec": 783,
+    "seed_ts": 1461
+  },
+  {
+    "rodada": 1,
+    "replicacao": 71,
+    "seed_tec": 471,
+    "seed_ts": 425
+  },
+  {
+    "rodada": 1,
+    "replicacao": 72,
+    "seed_tec": 857,
+    "seed_ts": 386
+  },
+  {
+    "rodada": 1,
+    "replicacao": 73,
+    "seed_tec": 912,
+    "seed_ts": 1597
+  },
+  {
+    "rodada": 1,
+    "replicacao": 74,
+    "seed_tec": 1162,
+    "seed_ts": 1850
+  },
+  {
+    "rodada": 1,
+    "replicacao": 75,
+    "seed_tec": 1614,
+    "seed_ts": 79
+  },
+  {
+    "rodada": 1,
+    "replicacao": 76,
+    "seed_tec": 46,
+    "seed_ts": 693
+  },
+  {
+    "rodada": 1,
+    "replicacao": 77,
+    "seed_tec": 1929,
+    "seed_ts": 254
+  },
+  {
+    "rodada": 1,
+    "replicacao": 78,
+    "seed_tec": 1354,
+    "seed_ts": 831
+  },
+  {
+    "rodada": 1,
+    "replicacao": 79,
+    "seed_tec": 809,
+    "seed_ts": 178
+  },
+  {
+    "rodada": 1,
+    "replicacao": 80,
+    "seed_tec": 1489,
+    "seed_ts": 10
+  },
+  {
+    "rodada": 1,
+    "replicacao": 81,
+    "seed_tec": 1900,
+    "seed_ts": 1881
+  },
+  {
+    "rodada": 1,
+    "replicacao": 82,
+    "seed_tec": 382,
+    "seed_ts": 801
+  },
+  {
+    "rodada": 1,
+    "replicacao": 83,
+    "seed_tec": 1033,
+    "seed_ts": 896
+  },
+  {
+    "rodada": 1,
+    "replicacao": 84,
+    "seed_tec": 1271,
+    "seed_ts": 1639
+  },
+  {
+    "rodada": 1,
+    "replicacao": 85,
+    "seed_tec": 1432,
+    "seed_ts": 1304
+  },
+  {
+    "rodada": 1,
+    "replicacao": 86,
+    "seed_tec": 1114,
+    "seed_ts": 571
+  },
+  {
+    "rodada": 1,
+    "replicacao": 87,
+    "seed_tec": 1232,
+    "seed_ts": 1702
+  },
+  {
+    "rodada": 1,
+    "replicacao": 88,
+    "seed_tec": 366,
+    "seed_ts": 31
+  },
+  {
+    "rodada": 1,
+    "replicacao": 89,
+    "seed_tec": 1534,
+    "seed_ts": 122
+  },
+  {
+    "rodada": 1,
+    "replicacao": 90,
+    "seed_tec": 795,
+    "seed_ts": 301
+  },
+  {
+    "rodada": 1,
+    "replicacao": 91,
+    "seed_tec": 121,
+    "seed_ts": 230
+  },
+  {
+    "rodada": 1,
+    "replicacao": 92,
+    "seed_tec": 789,
+    "seed_ts": 1683
+  },
+  {
+    "rodada": 1,
+    "replicacao": 93,
+    "seed_tec": 1558,
+    "seed_ts": 413
+  },
+  {
+    "rodada": 1,
+    "replicacao": 94,
+    "seed_tec": 1368,
+    "seed_ts": 1165
+  },
+  {
+    "rodada": 1,
+    "replicacao": 95,
+    "seed_tec": 1601,
+    "seed_ts": 1969
+  },
+  {
+    "rodada": 1,
+    "replicacao": 96,
+    "seed_tec": 881,
+    "seed_ts": 1311
+  },
+  {
+    "rodada": 1,
+    "replicacao": 97,
+    "seed_tec": 1237,
+    "seed_ts": 586
+  },
+  {
+    "rodada": 1,
+    "replicacao": 98,
+    "seed_tec": 588,
+    "seed_ts": 1607
+  },
+  {
+    "rodada": 1,
+    "replicacao": 99,
+    "seed_tec": 466,
+    "seed_ts": 1960
+  },
+  {
+    "rodada": 1,
+    "replicacao": 100,
+    "seed_tec": 338,
+    "seed_ts": 1684
+  },
+  {
+    "rodada": 1,
+    "replicacao": 101,
+    "seed_tec": 267,
+    "seed_ts": 1794
+  },
+  {
+    "rodada": 1,
+    "replicacao": 102,
+    "seed_tec": 1998,
+    "seed_ts": 909
+  },
+  {
+    "rodada": 1,
+    "replicacao": 103,
+    "seed_tec": 1024,
+    "seed_ts": 960
+  },
+  {
+    "rodada": 1,
+    "replicacao": 104,
+    "seed_tec": 893,
+    "seed_ts": 558
+  },
+  {
+    "rodada": 1,
+    "replicacao": 105,
+    "seed_tec": 1814,
+    "seed_ts": 1532
+  },
+  {
+    "rodada": 1,
+    "replicacao": 106,
+    "seed_tec": 1191,
+    "seed_ts": 1425
+  },
+  {
+    "rodada": 1,
+    "replicacao": 107,
+    "seed_tec": 340,
+    "seed_ts": 1306
+  },
+  {
+    "rodada": 1,
+    "replicacao": 108,
+    "seed_tec": 1543,
+    "seed_ts": 1367
+  },
+  {
+    "rodada": 1,
+    "replicacao": 109,
+    "seed_tec": 1026,
+    "seed_ts": 1369
+  },
+  {
+    "rodada": 1,
+    "replicacao": 110,
+    "seed_tec": 1335,
+    "seed_ts": 1254
+  },
+  {
+    "rodada": 1,
+    "replicacao": 111,
+    "seed_tec": 1879,
+    "seed_ts": 1610
+  },
+  {
+    "rodada": 1,
+    "replicacao": 112,
+    "seed_tec": 1094,
+    "seed_ts": 1647
+  },
+  {
+    "rodada": 1,
+    "replicacao": 113,
+    "seed_tec": 1430,
+    "seed_ts": 883
+  },
+  {
+    "rodada": 1,
+    "replicacao": 114,
+    "seed_tec": 1561,
+    "seed_ts": 1196
+  },
+  {
+    "rodada": 1,
+    "replicacao": 115,
+    "seed_tec": 1787,
+    "seed_ts": 216
+  },
+  {
+    "rodada": 1,
+    "replicacao": 116,
+    "seed_tec": 161,
+    "seed_ts": 235
+  },
+  {
+    "rodada": 1,
+    "replicacao": 117,
+    "seed_tec": 915,
+    "seed_ts": 1826
+  },
+  {
+    "rodada": 1,
+    "replicacao": 118,
+    "seed_tec": 1573,
+    "seed_ts": 3
+  },
+  {
+    "rodada": 1,
+    "replicacao": 119,
+    "seed_tec": 335,
+    "seed_ts": 512
+  },
+  {
+    "rodada": 1,
+    "replicacao": 120,
+    "seed_tec": 168,
+    "seed_ts": 1894
+  },
+  {
+    "rodada": 1,
+    "replicacao": 121,
+    "seed_tec": 1612,
+    "seed_ts": 1375
+  },
+  {
+    "rodada": 1,
+    "replicacao": 122,
+    "seed_tec": 659,
+    "seed_ts": 639
+  },
+  {
+    "rodada": 1,
+    "replicacao": 123,
+    "seed_tec": 75,
+    "seed_ts": 1315
+  },
+  {
+    "rodada": 1,
+    "replicacao": 124,
+    "seed_tec": 1606,
+    "seed_ts": 1841
+  },
+  {
+    "rodada": 1,
+    "replicacao": 125,
+    "seed_tec": 214,
+    "seed_ts": 1849
+  },
+  {
+    "rodada": 1,
+    "replicacao": 126,
+    "seed_tec": 1240,
+    "seed_ts": 287
+  },
+  {
+    "rodada": 1,
+    "replicacao": 127,
+    "seed_tec": 1545,
+    "seed_ts": 1129
+  },
+  {
+    "rodada": 1,
+    "replicacao": 128,
+    "seed_tec": 348,
+    "seed_ts": 592
+  },
+  {
+    "rodada": 1,
+    "replicacao": 129,
+    "seed_tec": 1521,
+    "seed_ts": 1317
+  },
+  {
+    "rodada": 1,
+    "replicacao": 130,
+    "seed_tec": 1809,
+    "seed_ts": 1611
+  },
+  {
+    "rodada": 1,
+    "replicacao": 131,
+    "seed_tec": 1204,
+    "seed_ts": 64
+  },
+  {
+    "rodada": 1,
+    "replicacao": 132,
+    "seed_tec": 158,
+    "seed_ts": 986
+  },
+  {
+    "rodada": 1,
+    "replicacao": 133,
+    "seed_tec": 762,
+    "seed_ts": 1867
+  },
+  {
+    "rodada": 1,
+    "replicacao": 134,
+    "seed_tec": 688,
+    "seed_ts": 980
+  },
+  {
+    "rodada": 1,
+    "replicacao": 135,
+    "seed_tec": 769,
+    "seed_ts": 1838
+  },
+  {
+    "rodada": 1,
+    "replicacao": 136,
+    "seed_tec": 1994,
+    "seed_ts": 1698
+  },
+  {
+    "rodada": 1,
+    "replicacao": 137,
+    "seed_tec": 1697,
+    "seed_ts": 1613
+  },
+  {
+    "rodada": 1,
+    "replicacao": 138,
+    "seed_tec": 177,
+    "seed_ts": 400
+  },
+  {
+    "rodada": 1,
+    "replicacao": 139,
+    "seed_tec": 1987,
+    "seed_ts": 1352
+  },
+  {
+    "rodada": 1,
+    "replicacao": 140,
+    "seed_tec": 691,
+    "seed_ts": 1852
+  },
+  {
+    "rodada": 1,
+    "replicacao": 141,
+    "seed_tec": 557,
+    "seed_ts": 1212
+  },
+  {
+    "rodada": 1,
+    "replicacao": 142,
+    "seed_tec": 761,
+    "seed_ts": 97
+  },
+  {
+    "rodada": 1,
+    "replicacao": 143,
+    "seed_tec": 1973,
+    "seed_ts": 1378
+  },
+  {
+    "rodada": 1,
+    "replicacao": 144,
+    "seed_tec": 1371,
+    "seed_ts": 1160
+  },
+  {
+    "rodada": 1,
+    "replicacao": 145,
+    "seed_tec": 200,
+    "seed_ts": 62
+  },
+  {
+    "rodada": 1,
+    "replicacao": 146,
+    "seed_tec": 504,
+    "seed_ts": 815
+  },
+  {
+    "rodada": 1,
+    "replicacao": 147,
+    "seed_tec": 1206,
+    "seed_ts": 1148
+  },
+  {
+    "rodada": 1,
+    "replicacao": 148,
+    "seed_tec": 88,
+    "seed_ts": 1265
+  },
+  {
+    "rodada": 1,
+    "replicacao": 149,
+    "seed_tec": 179,
+    "seed_ts": 932
+  },
+  {
+    "rodada": 1,
+    "replicacao": 150,
+    "seed_tec": 1097,
+    "seed_ts": 717
+  },
+  {
+    "rodada": 1,
+    "replicacao": 151,
+    "seed_tec": 630,
+    "seed_ts": 419
+  },
+  {
+    "rodada": 1,
+    "replicacao": 152,
+    "seed_tec": 952,
+    "seed_ts": 370
+  },
+  {
+    "rodada": 1,
+    "replicacao": 153,
+    "seed_tec": 276,
+    "seed_ts": 156
+  },
+  {
+    "rodada": 1,
+    "replicacao": 154,
+    "seed_tec": 1077,
+    "seed_ts": 583
+  },
+  {
+    "rodada": 1,
+    "replicacao": 155,
+    "seed_tec": 1824,
+    "seed_ts": 572
+  },
+  {
+    "rodada": 1,
+    "replicacao": 156,
+    "seed_tec": 113,
+    "seed_ts": 1907
+  },
+  {
+    "rodada": 1,
+    "replicacao": 157,
+    "seed_tec": 1616,
+    "seed_ts": 1009
+  },
+  {
+    "rodada": 1,
+    "replicacao": 158,
+    "seed_tec": 296,
+    "seed_ts": 398
+  },
+  {
+    "rodada": 1,
+    "replicacao": 159,
+    "seed_tec": 1219,
+    "seed_ts": 1957
+  },
+  {
+    "rodada": 1,
+    "replicacao": 160,
+    "seed_tec": 1766,
+    "seed_ts": 428
+  },
+  {
+    "rodada": 1,
+    "replicacao": 161,
+    "seed_tec": 811,
+    "seed_ts": 1068
+  },
+  {
+    "rodada": 1,
+    "replicacao": 162,
+    "seed_tec": 914,
+    "seed_ts": 1135
+  },
+  {
+    "rodada": 1,
+    "replicacao": 163,
+    "seed_tec": 923,
+    "seed_ts": 1958
+  },
+  {
+    "rodada": 1,
+    "replicacao": 164,
+    "seed_tec": 710,
+    "seed_ts": 82
+  },
+  {
+    "rodada": 1,
+    "replicacao": 165,
+    "seed_tec": 165,
+    "seed_ts": 1810
+  },
+  {
+    "rodada": 1,
+    "replicacao": 166,
+    "seed_tec": 1495,
+    "seed_ts": 1556
+  },
+  {
+    "rodada": 1,
+    "replicacao": 167,
+    "seed_tec": 1921,
+    "seed_ts": 1377
+  },
+  {
+    "rodada": 1,
+    "replicacao": 168,
+    "seed_tec": 139,
+    "seed_ts": 695
+  },
+  {
+    "rodada": 1,
+    "replicacao": 169,
+    "seed_tec": 1166,
+    "seed_ts": 66
+  },
+  {
+    "rodada": 1,
+    "replicacao": 170,
+    "seed_tec": 1661,
+    "seed_ts": 148
+  },
+  {
+    "rodada": 1,
+    "replicacao": 171,
+    "seed_tec": 1018,
+    "seed_ts": 1180
+  },
+  {
+    "rodada": 1,
+    "replicacao": 172,
+    "seed_tec": 992,
+    "seed_ts": 326
+  },
+  {
+    "rodada": 1,
+    "replicacao": 173,
+    "seed_tec": 1488,
+    "seed_ts": 947
+  },
+  {
+    "rodada": 1,
+    "replicacao": 174,
+    "seed_tec": 897,
+    "seed_ts": 1007
+  },
+  {
+    "rodada": 1,
+    "replicacao": 175,
+    "seed_tec": 1988,
+    "seed_ts": 1940
+  },
+  {
+    "rodada": 1,
+    "replicacao": 176,
+    "seed_tec": 1909,
+    "seed_ts": 204
+  },
+  {
+    "rodada": 1,
+    "replicacao": 177,
+    "seed_tec": 1618,
+    "seed_ts": 792
+  },
+  {
+    "rodada": 1,
+    "replicacao": 178,
+    "seed_tec": 1512,
+    "seed_ts": 1745
+  },
+  {
+    "rodada": 1,
+    "replicacao": 179,
+    "seed_tec": 137,
+    "seed_ts": 1439
+  },
+  {
+    "rodada": 1,
+    "replicacao": 180,
+    "seed_tec": 489,
+    "seed_ts": 658
+  },
+  {
+    "rodada": 1,
+    "replicacao": 181,
+    "seed_tec": 1551,
+    "seed_ts": 98
+  },
+  {
+    "rodada": 1,
+    "replicacao": 182,
+    "seed_tec": 371,
+    "seed_ts": 393
+  },
+  {
+    "rodada": 1,
+    "replicacao": 183,
+    "seed_tec": 1535,
+    "seed_ts": 190
+  },
+  {
+    "rodada": 1,
+    "replicacao": 184,
+    "seed_tec": 673,
+    "seed_ts": 147
+  },
+  {
+    "rodada": 1,
+    "replicacao": 185,
+    "seed_tec": 13,
+    "seed_ts": 288
+  },
+  {
+    "rodada": 1,
+    "replicacao": 186,
+    "seed_tec": 1115,
+    "seed_ts": 913
+  },
+  {
+    "rodada": 1,
+    "replicacao": 187,
+    "seed_tec": 1423,
+    "seed_ts": 199
+  },
+  {
+    "rodada": 1,
+    "replicacao": 188,
+    "seed_tec": 369,
+    "seed_ts": 671
+  },
+  {
+    "rodada": 1,
+    "replicacao": 189,
+    "seed_tec": 1517,
+    "seed_ts": 54
+  },
+  {
+    "rodada": 1,
+    "replicacao": 190,
+    "seed_tec": 1791,
+    "seed_ts": 580
+  },
+  {
+    "rodada": 1,
+    "replicacao": 191,
+    "seed_tec": 1047,
+    "seed_ts": 1300
+  },
+  {
+    "rodada": 1,
+    "replicacao": 192,
+    "seed_tec": 505,
+    "seed_ts": 1621
+  },
+  {
+    "rodada": 1,
+    "replicacao": 193,
+    "seed_tec": 1274,
+    "seed_ts": 497
+  },
+  {
+    "rodada": 1,
+    "replicacao": 194,
+    "seed_tec": 1829,
+    "seed_ts": 740
+  },
+  {
+    "rodada": 1,
+    "replicacao": 195,
+    "seed_tec": 1449,
+    "seed_ts": 864
+  },
+  {
+    "rodada": 1,
+    "replicacao": 196,
+    "seed_tec": 1366,
+    "seed_ts": 1203
+  },
+  {
+    "rodada": 1,
+    "replicacao": 197,
+    "seed_tec": 1340,
+    "seed_ts": 1045
+  },
+  {
+    "rodada": 1,
+    "replicacao": 198,
+    "seed_tec": 1473,
+    "seed_ts": 420
+  },
+  {
+    "rodada": 1,
+    "replicacao": 199,
+    "seed_tec": 1283,
+    "seed_ts": 1057
+  },
+  {
+    "rodada": 1,
+    "replicacao": 200,
+    "seed_tec": 827,
+    "seed_ts": 26
+  },
+  {
+    "rodada": 2,
+    "replicacao": 1,
+    "seed_tec": 91,
+    "seed_ts": 1565
+  },
+  {
+    "rodada": 2,
+    "replicacao": 2,
+    "seed_tec": 40,
+    "seed_ts": 737
+  },
+  {
+    "rodada": 2,
+    "replicacao": 3,
+    "seed_tec": 791,
+    "seed_ts": 1805
+  },
+  {
+    "rodada": 2,
+    "replicacao": 4,
+    "seed_tec": 1239,
+    "seed_ts": 663
+  },
+  {
+    "rodada": 2,
+    "replicacao": 5,
+    "seed_tec": 449,
+    "seed_ts": 154
+  },
+  {
+    "rodada": 2,
+    "replicacao": 6,
+    "seed_tec": 197,
+    "seed_ts": 1972
+  },
+  {
+    "rodada": 2,
+    "replicacao": 7,
+    "seed_tec": 1312,
+    "seed_ts": 845
+  },
+  {
+    "rodada": 2,
+    "replicacao": 8,
+    "seed_tec": 664,
+    "seed_ts": 1100
+  },
+  {
+    "rodada": 2,
+    "replicacao": 9,
+    "seed_tec": 979,
+    "seed_ts": 407
+  },
+  {
+    "rodada": 2,
+    "replicacao": 10,
+    "seed_tec": 279,
+    "seed_ts": 1758
+  },
+  {
+    "rodada": 2,
+    "replicacao": 11,
+    "seed_tec": 1727,
+    "seed_ts": 364
+  },
+  {
+    "rodada": 2,
+    "replicacao": 12,
+    "seed_tec": 1820,
+    "seed_ts": 1437
+  },
+  {
+    "rodada": 2,
+    "replicacao": 13,
+    "seed_tec": 1359,
+    "seed_ts": 1346
+  },
+  {
+    "rodada": 2,
+    "replicacao": 14,
+    "seed_tec": 496,
+    "seed_ts": 1076
+  },
+  {
+    "rodada": 2,
+    "replicacao": 15,
+    "seed_tec": 1175,
+    "seed_ts": 1640
+  },
+  {
+    "rodada": 2,
+    "replicacao": 16,
+    "seed_tec": 1221,
+    "seed_ts": 500
+  },
+  {
+    "rodada": 2,
+    "replicacao": 17,
+    "seed_tec": 406,
+    "seed_ts": 874
+  },
+  {
+    "rodada": 2,
+    "replicacao": 18,
+    "seed_tec": 377,
+    "seed_ts": 1564
+  },
+  {
+    "rodada": 2,
+    "replicacao": 19,
+    "seed_tec": 1868,
+    "seed_ts": 390
+  },
+  {
+    "rodada": 2,
+    "replicacao": 20,
+    "seed_tec": 835,
+    "seed_ts": 1083
+  },
+  {
+    "rodada": 2,
+    "replicacao": 21,
+    "seed_tec": 935,
+    "seed_ts": 1905
+  },
+  {
+    "rodada": 2,
+    "replicacao": 22,
+    "seed_tec": 167,
+    "seed_ts": 1792
+  },
+  {
+    "rodada": 2,
+    "replicacao": 23,
+    "seed_tec": 1567,
+    "seed_ts": 349
+  },
+  {
+    "rodada": 2,
+    "replicacao": 24,
+    "seed_tec": 1602,
+    "seed_ts": 727
+  },
+  {
+    "rodada": 2,
+    "replicacao": 25,
+    "seed_tec": 422,
+    "seed_ts": 1184
+  },
+  {
+    "rodada": 2,
+    "replicacao": 26,
+    "seed_tec": 1630,
+    "seed_ts": 1974
+  },
+  {
+    "rodada": 2,
+    "replicacao": 27,
+    "seed_tec": 657,
+    "seed_ts": 1559
+  },
+  {
+    "rodada": 2,
+    "replicacao": 28,
+    "seed_tec": 741,
+    "seed_ts": 237
+  },
+  {
+    "rodada": 2,
+    "replicacao": 29,
+    "seed_tec": 1691,
+    "seed_ts": 1823
+  },
+  {
+    "rodada": 2,
+    "replicacao": 30,
+    "seed_tec": 332,
+    "seed_ts": 1596
+  },
+  {
+    "rodada": 2,
+    "replicacao": 31,
+    "seed_tec": 1642,
+    "seed_ts": 339
+  },
+  {
+    "rodada": 2,
+    "replicacao": 32,
+    "seed_tec": 1803,
+    "seed_ts": 720
+  },
+  {
+    "rodada": 2,
+    "replicacao": 33,
+    "seed_tec": 1187,
+    "seed_ts": 1246
+  },
+  {
+    "rodada": 2,
+    "replicacao": 34,
+    "seed_tec": 357,
+    "seed_ts": 1234
+  },
+  {
+    "rodada": 2,
+    "replicacao": 35,
+    "seed_tec": 686,
+    "seed_ts": 700
+  },
+  {
+    "rodada": 2,
+    "replicacao": 36,
+    "seed_tec": 553,
+    "seed_ts": 728
+  },
+  {
+    "rodada": 2,
+    "replicacao": 37,
+    "seed_tec": 1788,
+    "seed_ts": 582
+  },
+  {
+    "rodada": 2,
+    "replicacao": 38,
+    "seed_tec": 1999,
+    "seed_ts": 447
+  },
+  {
+    "rodada": 2,
+    "replicacao": 39,
+    "seed_tec": 57,
+    "seed_ts": 1510
+  },
+  {
+    "rodada": 2,
+    "replicacao": 40,
+    "seed_tec": 136,
+    "seed_ts": 159
+  },
+  {
+    "rodada": 2,
+    "replicacao": 41,
+    "seed_tec": 621,
+    "seed_ts": 537
+  },
+  {
+    "rodada": 2,
+    "replicacao": 42,
+    "seed_tec": 953,
+    "seed_ts": 84
+  },
+  {
+    "rodada": 2,
+    "replicacao": 43,
+    "seed_tec": 1968,
+    "seed_ts": 875
+  },
+  {
+    "rodada": 2,
+    "replicacao": 44,
+    "seed_tec": 608,
+    "seed_ts": 918
+  },
+  {
+    "rodada": 2,
+    "replicacao": 45,
+    "seed_tec": 1801,
+    "seed_ts": 1645
+  },
+  {
+    "rodada": 2,
+    "replicacao": 46,
+    "seed_tec": 107,
+    "seed_ts": 777
+  },
+  {
+    "rodada": 2,
+    "replicacao": 47,
+    "seed_tec": 1397,
+    "seed_ts": 437
+  },
+  {
+    "rodada": 2,
+    "replicacao": 48,
+    "seed_tec": 379,
+    "seed_ts": 212
+  },
+  {
+    "rodada": 2,
+    "replicacao": 49,
+    "seed_tec": 149,
+    "seed_ts": 1125
+  },
+  {
+    "rodada": 2,
+    "replicacao": 50,
+    "seed_tec": 1259,
+    "seed_ts": 1294
+  },
+  {
+    "rodada": 2,
+    "replicacao": 51,
+    "seed_tec": 313,
+    "seed_ts": 285
+  },
+  {
+    "rodada": 2,
+    "replicacao": 52,
+    "seed_tec": 18,
+    "seed_ts": 130
+  },
+  {
+    "rodada": 2,
+    "replicacao": 53,
+    "seed_tec": 1384,
+    "seed_ts": 1533
+  },
+  {
+    "rodada": 2,
+    "replicacao": 54,
+    "seed_tec": 1685,
+    "seed_ts": 876
+  },
+  {
+    "rodada": 2,
+    "replicacao": 55,
+    "seed_tec": 758,
+    "seed_ts": 1208
+  },
+  {
+    "rodada": 2,
+    "replicacao": 56,
+    "seed_tec": 1194,
+    "seed_ts": 240
+  },
+  {
+    "rodada": 2,
+    "replicacao": 57,
+    "seed_tec": 574,
+    "seed_ts": 438
+  },
+  {
+    "rodada": 2,
+    "replicacao": 58,
+    "seed_tec": 1527,
+    "seed_ts": 271
+  },
+  {
+    "rodada": 2,
+    "replicacao": 59,
+    "seed_tec": 85,
+    "seed_ts": 682
+  },
+  {
+    "rodada": 2,
+    "replicacao": 60,
+    "seed_tec": 892,
+    "seed_ts": 1622
+  },
+  {
+    "rodada": 2,
+    "replicacao": 61,
+    "seed_tec": 1167,
+    "seed_ts": 1544
+  },
+  {
+    "rodada": 2,
+    "replicacao": 62,
+    "seed_tec": 593,
+    "seed_ts": 1966
+  },
+  {
+    "rodada": 2,
+    "replicacao": 63,
+    "seed_tec": 1860,
+    "seed_ts": 146
+  },
+  {
+    "rodada": 2,
+    "replicacao": 64,
+    "seed_tec": 12,
+    "seed_ts": 678
+  },
+  {
+    "rodada": 2,
+    "replicacao": 65,
+    "seed_tec": 1975,
+    "seed_ts": 1831
+  },
+  {
+    "rodada": 2,
+    "replicacao": 66,
+    "seed_tec": 435,
+    "seed_ts": 255
+  },
+  {
+    "rodada": 2,
+    "replicacao": 67,
+    "seed_tec": 868,
+    "seed_ts": 1270
+  },
+  {
+    "rodada": 2,
+    "replicacao": 68,
+    "seed_tec": 1633,
+    "seed_ts": 1901
+  },
+  {
+    "rodada": 2,
+    "replicacao": 69,
+    "seed_tec": 709,
+    "seed_ts": 1908
+  },
+  {
+    "rodada": 2,
+    "replicacao": 70,
+    "seed_tec": 996,
+    "seed_ts": 1249
+  },
+  {
+    "rodada": 2,
+    "replicacao": 71,
+    "seed_tec": 487,
+    "seed_ts": 1892
+  },
+  {
+    "rodada": 2,
+    "replicacao": 72,
+    "seed_tec": 1157,
+    "seed_ts": 1798
+  },
+  {
+    "rodada": 2,
+    "replicacao": 73,
+    "seed_tec": 1098,
+    "seed_ts": 65
+  },
+  {
+    "rodada": 2,
+    "replicacao": 74,
+    "seed_tec": 653,
+    "seed_ts": 475
+  },
+  {
+    "rodada": 2,
+    "replicacao": 75,
+    "seed_tec": 1784,
+    "seed_ts": 1296
+  },
+  {
+    "rodada": 2,
+    "replicacao": 76,
+    "seed_tec": 135,
+    "seed_ts": 434
+  },
+  {
+    "rodada": 2,
+    "replicacao": 77,
+    "seed_tec": 566,
+    "seed_ts": 1695
+  },
+  {
+    "rodada": 2,
+    "replicacao": 78,
+    "seed_tec": 1926,
+    "seed_ts": 778
+  },
+  {
+    "rodada": 2,
+    "replicacao": 79,
+    "seed_tec": 1365,
+    "seed_ts": 1016
+  },
+  {
+    "rodada": 2,
+    "replicacao": 80,
+    "seed_tec": 89,
+    "seed_ts": 128
+  },
+  {
+    "rodada": 2,
+    "replicacao": 81,
+    "seed_tec": 1158,
+    "seed_ts": 1256
+  },
+  {
+    "rodada": 2,
+    "replicacao": 82,
+    "seed_tec": 1443,
+    "seed_ts": 1213
+  },
+  {
+    "rodada": 2,
+    "replicacao": 83,
+    "seed_tec": 1279,
+    "seed_ts": 102
+  },
+  {
+    "rodada": 2,
+    "replicacao": 84,
+    "seed_tec": 1654,
+    "seed_ts": 472
+  },
+  {
+    "rodada": 2,
+    "replicacao": 85,
+    "seed_tec": 703,
+    "seed_ts": 1411
+  },
+  {
+    "rodada": 2,
+    "replicacao": 86,
+    "seed_tec": 838,
+    "seed_ts": 1750
+  },
+  {
+    "rodada": 2,
+    "replicacao": 87,
+    "seed_tec": 4,
+    "seed_ts": 772
+  },
+  {
+    "rodada": 2,
+    "replicacao": 88,
+    "seed_tec": 1666,
+    "seed_ts": 1322
+  },
+  {
+    "rodada": 2,
+    "replicacao": 89,
+    "seed_tec": 427,
+    "seed_ts": 1761
+  },
+  {
+    "rodada": 2,
+    "replicacao": 90,
+    "seed_tec": 529,
+    "seed_ts": 650
+  },
+  {
+    "rodada": 2,
+    "replicacao": 91,
+    "seed_tec": 1700,
+    "seed_ts": 127
+  },
+  {
+    "rodada": 2,
+    "replicacao": 92,
+    "seed_tec": 1172,
+    "seed_ts": 1593
+  },
+  {
+    "rodada": 2,
+    "replicacao": 93,
+    "seed_tec": 1085,
+    "seed_ts": 747
+  },
+  {
+    "rodada": 2,
+    "replicacao": 94,
+    "seed_tec": 944,
+    "seed_ts": 1662
+  },
+  {
+    "rodada": 2,
+    "replicacao": 95,
+    "seed_tec": 1081,
+    "seed_ts": 1106
+  },
+  {
+    "rodada": 2,
+    "replicacao": 96,
+    "seed_tec": 847,
+    "seed_ts": 526
+  },
+  {
+    "rodada": 2,
+    "replicacao": 97,
+    "seed_tec": 446,
+    "seed_ts": 1827
+  },
+  {
+    "rodada": 2,
+    "replicacao": 98,
+    "seed_tec": 485,
+    "seed_ts": 404
+  },
+  {
+    "rodada": 2,
+    "replicacao": 99,
+    "seed_tec": 503,
+    "seed_ts": 1985
+  },
+  {
+    "rodada": 2,
+    "replicacao": 100,
+    "seed_tec": 1078,
+    "seed_ts": 1276
+  },
+  {
+    "rodada": 2,
+    "replicacao": 101,
+    "seed_tec": 1523,
+    "seed_ts": 1110
+  },
+  {
+    "rodada": 2,
+    "replicacao": 102,
+    "seed_tec": 752,
+    "seed_ts": 743
+  },
+  {
+    "rodada": 2,
+    "replicacao": 103,
+    "seed_tec": 1939,
+    "seed_ts": 794
+  },
+  {
+    "rodada": 2,
+    "replicacao": 104,
+    "seed_tec": 1023,
+    "seed_ts": 373
+  },
+  {
+    "rodada": 2,
+    "replicacao": 105,
+    "seed_tec": 397,
+    "seed_ts": 1941
+  },
+  {
+    "rodada": 2,
+    "replicacao": 106,
+    "seed_tec": 615,
+    "seed_ts": 432
+  },
+  {
+    "rodada": 2,
+    "replicacao": 107,
+    "seed_tec": 14,
+    "seed_ts": 226
+  },
+  {
+    "rodada": 2,
+    "replicacao": 108,
+    "seed_tec": 1012,
+    "seed_ts": 1935
+  },
+  {
+    "rodada": 2,
+    "replicacao": 109,
+    "seed_tec": 360,
+    "seed_ts": 359
+  },
+  {
+    "rodada": 2,
+    "replicacao": 110,
+    "seed_tec": 519,
+    "seed_ts": 293
+  },
+  {
+    "rodada": 2,
+    "replicacao": 111,
+    "seed_tec": 524,
+    "seed_ts": 974
+  },
+  {
+    "rodada": 2,
+    "replicacao": 112,
+    "seed_tec": 232,
+    "seed_ts": 805
+  },
+  {
+    "rodada": 2,
+    "replicacao": 113,
+    "seed_tec": 306,
+    "seed_ts": 859
+  },
+  {
+    "rodada": 2,
+    "replicacao": 114,
+    "seed_tec": 790,
+    "seed_ts": 946
+  },
+  {
+    "rodada": 2,
+    "replicacao": 115,
+    "seed_tec": 611,
+    "seed_ts": 1637
+  },
+  {
+    "rodada": 2,
+    "replicacao": 116,
+    "seed_tec": 734,
+    "seed_ts": 1740
+  },
+  {
+    "rodada": 2,
+    "replicacao": 117,
+    "seed_tec": 1353,
+    "seed_ts": 1333
+  },
+  {
+    "rodada": 2,
+    "replicacao": 118,
+    "seed_tec": 1459,
+    "seed_ts": 1029
+  },
+  {
+    "rodada": 2,
+    "replicacao": 119,
+    "seed_tec": 1828,
+    "seed_ts": 906
+  },
+  {
+    "rodada": 2,
+    "replicacao": 120,
+    "seed_tec": 441,
+    "seed_ts": 1775
+  },
+  {
+    "rodada": 2,
+    "replicacao": 121,
+    "seed_tec": 308,
+    "seed_ts": 1965
+  },
+  {
+    "rodada": 2,
+    "replicacao": 122,
+    "seed_tec": 683,
+    "seed_ts": 1893
+  },
+  {
+    "rodada": 2,
+    "replicacao": 123,
+    "seed_tec": 310,
+    "seed_ts": 521
+  },
+  {
+    "rodada": 2,
+    "replicacao": 124,
+    "seed_tec": 1884,
+    "seed_ts": 1192
+  },
+  {
+    "rodada": 2,
+    "replicacao": 125,
+    "seed_tec": 997,
+    "seed_ts": 1686
+  },
+  {
+    "rodada": 2,
+    "replicacao": 126,
+    "seed_tec": 270,
+    "seed_ts": 1718
+  },
+  {
+    "rodada": 2,
+    "replicacao": 127,
+    "seed_tec": 552,
+    "seed_ts": 556
+  },
+  {
+    "rodada": 2,
+    "replicacao": 128,
+    "seed_tec": 311,
+    "seed_ts": 1866
+  },
+  {
+    "rodada": 2,
+    "replicacao": 129,
+    "seed_tec": 632,
+    "seed_ts": 213
+  },
+  {
+    "rodada": 2,
+    "replicacao": 130,
+    "seed_tec": 1511,
+    "seed_ts": 812
+  },
+  {
+    "rodada": 2,
+    "replicacao": 131,
+    "seed_tec": 344,
+    "seed_ts": 1099
+  },
+  {
+    "rodada": 2,
+    "replicacao": 132,
+    "seed_tec": 1802,
+    "seed_ts": 1253
+  },
+  {
+    "rodada": 2,
+    "replicacao": 133,
+    "seed_tec": 1169,
+    "seed_ts": 104
+  },
+  {
+    "rodada": 2,
+    "replicacao": 134,
+    "seed_tec": 1310,
+    "seed_ts": 334
+  },
+  {
+    "rodada": 2,
+    "replicacao": 135,
+    "seed_tec": 1948,
+    "seed_ts": 414
+  },
+  {
+    "rodada": 2,
+    "replicacao": 136,
+    "seed_tec": 916,
+    "seed_ts": 219
+  },
+  {
+    "rodada": 2,
+    "replicacao": 137,
+    "seed_tec": 1781,
+    "seed_ts": 1566
+  },
+  {
+    "rodada": 2,
+    "replicacao": 138,
+    "seed_tec": 562,
+    "seed_ts": 1934
+  },
+  {
+    "rodada": 2,
+    "replicacao": 139,
+    "seed_tec": 105,
+    "seed_ts": 1144
+  },
+  {
+    "rodada": 2,
+    "replicacao": 140,
+    "seed_tec": 1036,
+    "seed_ts": 1959
+  },
+  {
+    "rodada": 2,
+    "replicacao": 141,
+    "seed_tec": 481,
+    "seed_ts": 421
+  },
+  {
+    "rodada": 2,
+    "replicacao": 142,
+    "seed_tec": 637,
+    "seed_ts": 1756
+  },
+  {
+    "rodada": 2,
+    "replicacao": 143,
+    "seed_tec": 1482,
+    "seed_ts": 1735
+  },
+  {
+    "rodada": 2,
+    "replicacao": 144,
+    "seed_tec": 739,
+    "seed_ts": 1869
+  },
+  {
+    "rodada": 2,
+    "replicacao": 145,
+    "seed_tec": 281,
+    "seed_ts": 395
+  },
+  {
+    "rodada": 2,
+    "replicacao": 146,
+    "seed_tec": 716,
+    "seed_ts": 1451
+  },
+  {
+    "rodada": 2,
+    "replicacao": 147,
+    "seed_tec": 1861,
+    "seed_ts": 233
+  },
+  {
+    "rodada": 2,
+    "replicacao": 148,
+    "seed_tec": 1025,
+    "seed_ts": 125
+  },
+  {
+    "rodada": 2,
+    "replicacao": 149,
+    "seed_tec": 1262,
+    "seed_ts": 706
+  },
+  {
+    "rodada": 2,
+    "replicacao": 150,
+    "seed_tec": 1880,
+    "seed_ts": 641
+  },
+  {
+    "rodada": 2,
+    "replicacao": 151,
+    "seed_tec": 1818,
+    "seed_ts": 929
+  },
+  {
+    "rodada": 2,
+    "replicacao": 152,
+    "seed_tec": 155,
+    "seed_ts": 1471
+  },
+  {
+    "rodada": 2,
+    "replicacao": 153,
+    "seed_tec": 624,
+    "seed_ts": 1440
+  },
+  {
+    "rodada": 2,
+    "replicacao": 154,
+    "seed_tec": 21,
+    "seed_ts": 1526
+  },
+  {
+    "rodada": 2,
+    "replicacao": 155,
+    "seed_tec": 418,
+    "seed_ts": 152
+  },
+  {
+    "rodada": 2,
+    "replicacao": 156,
+    "seed_tec": 319,
+    "seed_ts": 999
+  },
+  {
+    "rodada": 2,
+    "replicacao": 157,
+    "seed_tec": 628,
+    "seed_ts": 1842
+  },
+  {
+    "rodada": 2,
+    "replicacao": 158,
+    "seed_tec": 1550,
+    "seed_ts": 1689
+  },
+  {
+    "rodada": 2,
+    "replicacao": 159,
+    "seed_tec": 1447,
+    "seed_ts": 490
+  },
+  {
+    "rodada": 2,
+    "replicacao": 160,
+    "seed_tec": 679,
+    "seed_ts": 1864
+  },
+  {
+    "rodada": 2,
+    "replicacao": 161,
+    "seed_tec": 1714,
+    "seed_ts": 163
+  },
+  {
+    "rodada": 2,
+    "replicacao": 162,
+    "seed_tec": 830,
+    "seed_ts": 681
+  },
+  {
+    "rodada": 2,
+    "replicacao": 163,
+    "seed_tec": 808,
+    "seed_ts": 100
+  },
+  {
+    "rodada": 2,
+    "replicacao": 164,
+    "seed_tec": 930,
+    "seed_ts": 470
+  },
+  {
+    "rodada": 2,
+    "replicacao": 165,
+    "seed_tec": 1342,
+    "seed_ts": 1592
+  },
+  {
+    "rodada": 2,
+    "replicacao": 166,
+    "seed_tec": 30,
+    "seed_ts": 1760
+  },
+  {
+    "rodada": 2,
+    "replicacao": 167,
+    "seed_tec": 545,
+    "seed_ts": 957
+  },
+  {
+    "rodada": 2,
+    "replicacao": 168,
+    "seed_tec": 1458,
+    "seed_ts": 755
+  },
+  {
+    "rodada": 2,
+    "replicacao": 169,
+    "seed_tec": 697,
+    "seed_ts": 591
+  },
+  {
+    "rodada": 2,
+    "replicacao": 170,
+    "seed_tec": 1928,
+    "seed_ts": 1518
+  },
+  {
+    "rodada": 2,
+    "replicacao": 171,
+    "seed_tec": 1379,
+    "seed_ts": 1474
+  },
+  {
+    "rodada": 2,
+    "replicacao": 172,
+    "seed_tec": 1364,
+    "seed_ts": 765
+  },
+  {
+    "rodada": 2,
+    "replicacao": 173,
+    "seed_tec": 1870,
+    "seed_ts": 1804
+  },
+  {
+    "rodada": 2,
+    "replicacao": 174,
+    "seed_tec": 1155,
+    "seed_ts": 1361
+  },
+  {
+    "rodada": 2,
+    "replicacao": 175,
+    "seed_tec": 606,
+    "seed_ts": 1650
+  },
+  {
+    "rodada": 2,
+    "replicacao": 176,
+    "seed_tec": 1376,
+    "seed_ts": 853
+  },
+  {
+    "rodada": 2,
+    "replicacao": 177,
+    "seed_tec": 1572,
+    "seed_ts": 347
+  },
+  {
+    "rodada": 2,
+    "replicacao": 178,
+    "seed_tec": 776,
+    "seed_ts": 687
+  },
+  {
+    "rodada": 2,
+    "replicacao": 179,
+    "seed_tec": 942,
+    "seed_ts": 1351
+  },
+  {
+    "rodada": 2,
+    "replicacao": 180,
+    "seed_tec": 510,
+    "seed_ts": 715
+  },
+  {
+    "rodada": 2,
+    "replicacao": 181,
+    "seed_tec": 802,
+    "seed_ts": 1599
+  },
+  {
+    "rodada": 2,
+    "replicacao": 182,
+    "seed_tec": 2,
+    "seed_ts": 1692
+  },
+  {
+    "rodada": 2,
+    "replicacao": 183,
+    "seed_tec": 858,
+    "seed_ts": 564
+  },
+  {
+    "rodada": 2,
+    "replicacao": 184,
+    "seed_tec": 507,
+    "seed_ts": 1308
+  },
+  {
+    "rodada": 2,
+    "replicacao": 185,
+    "seed_tec": 1978,
+    "seed_ts": 1188
+  },
+  {
+    "rodada": 2,
+    "replicacao": 186,
+    "seed_tec": 153,
+    "seed_ts": 1648
+  },
+  {
+    "rodada": 2,
+    "replicacao": 187,
+    "seed_tec": 486,
+    "seed_ts": 1872
+  },
+  {
+    "rodada": 2,
+    "replicacao": 188,
+    "seed_tec": 908,
+    "seed_ts": 581
+  },
+  {
+    "rodada": 2,
+    "replicacao": 189,
+    "seed_tec": 134,
+    "seed_ts": 967
+  },
+  {
+    "rodada": 2,
+    "replicacao": 190,
+    "seed_tec": 766,
+    "seed_ts": 1229
+  },
+  {
+    "rodada": 2,
+    "replicacao": 191,
+    "seed_tec": 1996,
+    "seed_ts": 1581
+  },
+  {
+    "rodada": 2,
+    "replicacao": 192,
+    "seed_tec": 976,
+    "seed_ts": 1651
+  },
+  {
+    "rodada": 2,
+    "replicacao": 193,
+    "seed_tec": 1417,
+    "seed_ts": 1716
+  },
+  {
+    "rodada": 2,
+    "replicacao": 194,
+    "seed_tec": 832,
+    "seed_ts": 1410
+  },
+  {
+    "rodada": 2,
+    "replicacao": 195,
+    "seed_tec": 1541,
+    "seed_ts": 346
+  },
+  {
+    "rodada": 2,
+    "replicacao": 196,
+    "seed_tec": 775,
+    "seed_ts": 1238
+  },
+  {
+    "rodada": 2,
+    "replicacao": 197,
+    "seed_tec": 205,
+    "seed_ts": 573
+  },
+  {
+    "rodada": 2,
+    "replicacao": 198,
+    "seed_tec": 169,
+    "seed_ts": 1503
+  },
+  {
+    "rodada": 2,
+    "replicacao": 199,
+    "seed_tec": 1383,
+    "seed_ts": 183
+  },
+  {
+    "rodada": 2,
+    "replicacao": 200,
+    "seed_tec": 638,
+    "seed_ts": 692
+  },
+  {
+    "rodada": 3,
+    "replicacao": 1,
+    "seed_tec": 452,
+    "seed_ts": 1764
+  },
+  {
+    "rodada": 3,
+    "replicacao": 2,
+    "seed_tec": 570,
+    "seed_ts": 994
+  },
+  {
+    "rodada": 3,
+    "replicacao": 3,
+    "seed_tec": 1701,
+    "seed_ts": 1671
+  },
+  {
+    "rodada": 3,
+    "replicacao": 4,
+    "seed_tec": 33,
+    "seed_ts": 1583
+  },
+  {
+    "rodada": 3,
+    "replicacao": 5,
+    "seed_tec": 90,
+    "seed_ts": 476
+  },
+  {
+    "rodada": 3,
+    "replicacao": 6,
+    "seed_tec": 1292,
+    "seed_ts": 1269
+  },
+  {
+    "rodada": 3,
+    "replicacao": 7,
+    "seed_tec": 234,
+    "seed_ts": 361
+  },
+  {
+    "rodada": 3,
+    "replicacao": 8,
+    "seed_tec": 1131,
+    "seed_ts": 55
+  },
+  {
+    "rodada": 3,
+    "replicacao": 9,
+    "seed_tec": 1779,
+    "seed_ts": 2000
+  },
+  {
+    "rodada": 3,
+    "replicacao": 10,
+    "seed_tec": 1176,
+    "seed_ts": 1795
+  },
+  {
+    "rodada": 3,
+    "replicacao": 11,
+    "seed_tec": 1903,
+    "seed_ts": 1235
+  },
+  {
+    "rodada": 3,
+    "replicacao": 12,
+    "seed_tec": 1170,
+    "seed_ts": 1643
+  },
+  {
+    "rodada": 3,
+    "replicacao": 13,
+    "seed_tec": 1015,
+    "seed_ts": 1096
+  },
+  {
+    "rodada": 3,
+    "replicacao": 14,
+    "seed_tec": 1288,
+    "seed_ts": 74
+  },
+  {
+    "rodada": 3,
+    "replicacao": 15,
+    "seed_tec": 266,
+    "seed_ts": 1709
+  },
+  {
+    "rodada": 3,
+    "replicacao": 16,
+    "seed_tec": 1261,
+    "seed_ts": 662
+  },
+  {
+    "rodada": 3,
+    "replicacao": 17,
+    "seed_tec": 1060,
+    "seed_ts": 1266
+  },
+  {
+    "rodada": 3,
+    "replicacao": 18,
+    "seed_tec": 8,
+    "seed_ts": 210
+  },
+  {
+    "rodada": 3,
+    "replicacao": 19,
+    "seed_tec": 1113,
+    "seed_ts": 1844
+  },
+  {
+    "rodada": 3,
+    "replicacao": 20,
+    "seed_tec": 1128,
+    "seed_ts": 1233
+  },
+  {
+    "rodada": 3,
+    "replicacao": 21,
+    "seed_tec": 94,
+    "seed_ts": 1337
+  },
+  {
+    "rodada": 3,
+    "replicacao": 22,
+    "seed_tec": 1525,
+    "seed_ts": 1500
+  },
+  {
+    "rodada": 3,
+    "replicacao": 23,
+    "seed_tec": 1251,
+    "seed_ts": 667
+  },
+  {
+    "rodada": 3,
+    "replicacao": 24,
+    "seed_tec": 1252,
+    "seed_ts": 36
+  },
+  {
+    "rodada": 3,
+    "replicacao": 25,
+    "seed_tec": 1554,
+    "seed_ts": 1863
+  },
+  {
+    "rodada": 3,
+    "replicacao": 26,
+    "seed_tec": 479,
+    "seed_ts": 1724
+  },
+  {
+    "rodada": 3,
+    "replicacao": 27,
+    "seed_tec": 365,
+    "seed_ts": 1840
+  },
+  {
+    "rodada": 3,
+    "replicacao": 28,
+    "seed_tec": 1422,
+    "seed_ts": 563
+  },
+  {
+    "rodada": 3,
+    "replicacao": 29,
+    "seed_tec": 459,
+    "seed_ts": 1529
+  },
+  {
+    "rodada": 3,
+    "replicacao": 30,
+    "seed_tec": 576,
+    "seed_ts": 1520
+  },
+  {
+    "rodada": 3,
+    "replicacao": 31,
+    "seed_tec": 823,
+    "seed_ts": 647
+  },
+  {
+    "rodada": 3,
+    "replicacao": 32,
+    "seed_tec": 1485,
+    "seed_ts": 1722
+  },
+  {
+    "rodada": 3,
+    "replicacao": 33,
+    "seed_tec": 924,
+    "seed_ts": 1715
+  },
+  {
+    "rodada": 3,
+    "replicacao": 34,
+    "seed_tec": 172,
+    "seed_ts": 1388
+  },
+  {
+    "rodada": 3,
+    "replicacao": 35,
+    "seed_tec": 87,
+    "seed_ts": 1736
+  },
+  {
+    "rodada": 3,
+    "replicacao": 36,
+    "seed_tec": 1178,
+    "seed_ts": 1857
+  },
+  {
+    "rodada": 3,
+    "replicacao": 37,
+    "seed_tec": 174,
+    "seed_ts": 1799
+  },
+  {
+    "rodada": 3,
+    "replicacao": 38,
+    "seed_tec": 770,
+    "seed_ts": 1119
+  },
+  {
+    "rodada": 3,
+    "replicacao": 39,
+    "seed_tec": 1719,
+    "seed_ts": 1873
+  },
+  {
+    "rodada": 3,
+    "replicacao": 40,
+    "seed_tec": 1519,
+    "seed_ts": 1971
+  },
+  {
+    "rodada": 3,
+    "replicacao": 41,
+    "seed_tec": 411,
+    "seed_ts": 426
+  },
+  {
+    "rodada": 3,
+    "replicacao": 42,
+    "seed_tec": 825,
+    "seed_ts": 109
+  },
+  {
+    "rodada": 3,
+    "replicacao": 43,
+    "seed_tec": 821,
+    "seed_ts": 114
+  },
+  {
+    "rodada": 3,
+    "replicacao": 44,
+    "seed_tec": 1680,
+    "seed_ts": 416
+  },
+  {
+    "rodada": 3,
+    "replicacao": 45,
+    "seed_tec": 1875,
+    "seed_ts": 175
+  },
+  {
+    "rodada": 3,
+    "replicacao": 46,
+    "seed_tec": 1220,
+    "seed_ts": 1455
+  },
+  {
+    "rodada": 3,
+    "replicacao": 47,
+    "seed_tec": 601,
+    "seed_ts": 223
+  },
+  {
+    "rodada": 3,
+    "replicacao": 48,
+    "seed_tec": 1295,
+    "seed_ts": 378
+  },
+  {
+    "rodada": 3,
+    "replicacao": 49,
+    "seed_tec": 1524,
+    "seed_ts": 1757
+  },
+  {
+    "rodada": 3,
+    "replicacao": 50,
+    "seed_tec": 1010,
+    "seed_ts": 1783
+  },
+  {
+    "rodada": 3,
+    "replicacao": 51,
+    "seed_tec": 1989,
+    "seed_ts": 891
+  },
+  {
+    "rodada": 3,
+    "replicacao": 52,
+    "seed_tec": 966,
+    "seed_ts": 1293
+  },
+  {
+    "rodada": 3,
+    "replicacao": 53,
+    "seed_tec": 27,
+    "seed_ts": 1819
+  },
+  {
+    "rodada": 3,
+    "replicacao": 54,
+    "seed_tec": 1725,
+    "seed_ts": 885
+  },
+  {
+    "rodada": 3,
+    "replicacao": 55,
+    "seed_tec": 1338,
+    "seed_ts": 786
+  },
+  {
+    "rodada": 3,
+    "replicacao": 56,
+    "seed_tec": 274,
+    "seed_ts": 1619
+  },
+  {
+    "rodada": 3,
+    "replicacao": 57,
+    "seed_tec": 1087,
+    "seed_ts": 998
+  },
+  {
+    "rodada": 3,
+    "replicacao": 58,
+    "seed_tec": 247,
+    "seed_ts": 302
+  },
+  {
+    "rodada": 3,
+    "replicacao": 59,
+    "seed_tec": 144,
+    "seed_ts": 804
+  },
+  {
+    "rodada": 3,
+    "replicacao": 60,
+    "seed_tec": 1434,
+    "seed_ts": 961
+  },
+  {
+    "rodada": 3,
+    "replicacao": 61,
+    "seed_tec": 35,
+    "seed_ts": 1739
+  },
+  {
+    "rodada": 3,
+    "replicacao": 62,
+    "seed_tec": 394,
+    "seed_ts": 224
+  },
+  {
+    "rodada": 3,
+    "replicacao": 63,
+    "seed_tec": 511,
+    "seed_ts": 17
+  },
+  {
+    "rodada": 3,
+    "replicacao": 64,
+    "seed_tec": 1590,
+    "seed_ts": 495
+  },
+  {
+    "rodada": 3,
+    "replicacao": 65,
+    "seed_tec": 391,
+    "seed_ts": 1154
+  },
+  {
+    "rodada": 3,
+    "replicacao": 66,
+    "seed_tec": 488,
+    "seed_ts": 1848
+  },
+  {
+    "rodada": 3,
+    "replicacao": 67,
+    "seed_tec": 117,
+    "seed_ts": 788
+  },
+  {
+    "rodada": 3,
+    "replicacao": 68,
+    "seed_tec": 1084,
+    "seed_ts": 1210
+  },
+  {
+    "rodada": 3,
+    "replicacao": 69,
+    "seed_tec": 1095,
+    "seed_ts": 610
+  },
+  {
+    "rodada": 3,
+    "replicacao": 70,
+    "seed_tec": 256,
+    "seed_ts": 501
+  },
+  {
+    "rodada": 3,
+    "replicacao": 71,
+    "seed_tec": 1130,
+    "seed_ts": 1896
+  },
+  {
+    "rodada": 3,
+    "replicacao": 72,
+    "seed_tec": 321,
+    "seed_ts": 869
+  },
+  {
+    "rodada": 3,
+    "replicacao": 73,
+    "seed_tec": 973,
+    "seed_ts": 1874
+  },
+  {
+    "rodada": 3,
+    "replicacao": 74,
+    "seed_tec": 1538,
+    "seed_ts": 1834
+  },
+  {
+    "rodada": 3,
+    "replicacao": 75,
+    "seed_tec": 1711,
+    "seed_ts": 708
+  },
+  {
+    "rodada": 3,
+    "replicacao": 76,
+    "seed_tec": 1017,
+    "seed_ts": 919
+  },
+  {
+    "rodada": 3,
+    "replicacao": 77,
+    "seed_tec": 959,
+    "seed_ts": 330
+  },
+  {
+    "rodada": 3,
+    "replicacao": 78,
+    "seed_tec": 1227,
+    "seed_ts": 483
+  },
+  {
+    "rodada": 3,
+    "replicacao": 79,
+    "seed_tec": 1415,
+    "seed_ts": 1159
+  },
+  {
+    "rodada": 3,
+    "replicacao": 80,
+    "seed_tec": 1314,
+    "seed_ts": 343
+  },
+  {
+    "rodada": 3,
+    "replicacao": 81,
+    "seed_tec": 927,
+    "seed_ts": 878
+  },
+  {
+    "rodada": 3,
+    "replicacao": 82,
+    "seed_tec": 751,
+    "seed_ts": 1771
+  },
+  {
+    "rodada": 3,
+    "replicacao": 83,
+    "seed_tec": 534,
+    "seed_ts": 617
+  },
+  {
+    "rodada": 3,
+    "replicacao": 84,
+    "seed_tec": 1731,
+    "seed_ts": 73
+  },
+  {
+    "rodada": 3,
+    "replicacao": 85,
+    "seed_tec": 1536,
+    "seed_ts": 1477
+  },
+  {
+    "rodada": 3,
+    "replicacao": 86,
+    "seed_tec": 1845,
+    "seed_ts": 1280
+  },
+  {
+    "rodada": 3,
+    "replicacao": 87,
+    "seed_tec": 882,
+    "seed_ts": 1586
+  },
+  {
+    "rodada": 3,
+    "replicacao": 88,
+    "seed_tec": 1578,
+    "seed_ts": 95
+  },
+  {
+    "rodada": 3,
+    "replicacao": 89,
+    "seed_tec": 402,
+    "seed_ts": 108
+  },
+  {
+    "rodada": 3,
+    "replicacao": 90,
+    "seed_tec": 28,
+    "seed_ts": 138
+  },
+  {
+    "rodada": 3,
+    "replicacao": 91,
+    "seed_tec": 327,
+    "seed_ts": 920
+  },
+  {
+    "rodada": 3,
+    "replicacao": 92,
+    "seed_tec": 1945,
+    "seed_ts": 23
+  },
+  {
+    "rodada": 3,
+    "replicacao": 93,
+    "seed_tec": 554,
+    "seed_ts": 1486
+  },
+  {
+    "rodada": 3,
+    "replicacao": 94,
+    "seed_tec": 1395,
+    "seed_ts": 1882
+  },
+  {
+    "rodada": 3,
+    "replicacao": 95,
+    "seed_tec": 1492,
+    "seed_ts": 1089
+  },
+  {
+    "rodada": 3,
+    "replicacao": 96,
+    "seed_tec": 1742,
+    "seed_ts": 1450
+  },
+  {
+    "rodada": 3,
+    "replicacao": 97,
+    "seed_tec": 1243,
+    "seed_ts": 396
+  },
+  {
+    "rodada": 3,
+    "replicacao": 98,
+    "seed_tec": 112,
+    "seed_ts": 578
+  },
+  {
+    "rodada": 3,
+    "replicacao": 99,
+    "seed_tec": 464,
+    "seed_ts": 1924
+  },
+  {
+    "rodada": 3,
+    "replicacao": 100,
+    "seed_tec": 1549,
+    "seed_ts": 72
+  },
+  {
+    "rodada": 3,
+    "replicacao": 101,
+    "seed_tec": 43,
+    "seed_ts": 1746
+  },
+  {
+    "rodada": 3,
+    "replicacao": 102,
+    "seed_tec": 1088,
+    "seed_ts": 39
+  },
+  {
+    "rodada": 3,
+    "replicacao": 103,
+    "seed_tec": 304,
+    "seed_ts": 1032
+  },
+  {
+    "rodada": 3,
+    "replicacao": 104,
+    "seed_tec": 1398,
+    "seed_ts": 1888
+  },
+  {
+    "rodada": 3,
+    "replicacao": 105,
+    "seed_tec": 970,
+    "seed_ts": 1426
+  },
+  {
+    "rodada": 3,
+    "replicacao": 106,
+    "seed_tec": 1416,
+    "seed_ts": 539
+  },
+  {
+    "rodada": 3,
+    "replicacao": 107,
+    "seed_tec": 1039,
+    "seed_ts": 846
+  },
+  {
+    "rodada": 3,
+    "replicacao": 108,
+    "seed_tec": 1035,
+    "seed_ts": 1242
+  },
+  {
+    "rodada": 3,
+    "replicacao": 109,
+    "seed_tec": 1505,
+    "seed_ts": 473
+  },
+  {
+    "rodada": 3,
+    "replicacao": 110,
+    "seed_tec": 81,
+    "seed_ts": 1189
+  },
+  {
+    "rodada": 3,
+    "replicacao": 111,
+    "seed_tec": 1677,
+    "seed_ts": 261
+  },
+  {
+    "rodada": 3,
+    "replicacao": 112,
+    "seed_tec": 774,
+    "seed_ts": 1752
+  },
+  {
+    "rodada": 3,
+    "replicacao": 113,
+    "seed_tec": 1682,
+    "seed_ts": 1487
+  },
+  {
+    "rodada": 3,
+    "replicacao": 114,
+    "seed_tec": 1679,
+    "seed_ts": 1428
+  },
+  {
+    "rodada": 3,
+    "replicacao": 115,
+    "seed_tec": 456,
+    "seed_ts": 1334
+  },
+  {
+    "rodada": 3,
+    "replicacao": 116,
+    "seed_tec": 221,
+    "seed_ts": 1475
+  },
+  {
+    "rodada": 3,
+    "replicacao": 117,
+    "seed_tec": 1000,
+    "seed_ts": 1813
+  },
+  {
+    "rodada": 3,
+    "replicacao": 118,
+    "seed_tec": 560,
+    "seed_ts": 943
+  },
+  {
+    "rodada": 3,
+    "replicacao": 119,
+    "seed_tec": 977,
+    "seed_ts": 1765
+  },
+  {
+    "rodada": 3,
+    "replicacao": 120,
+    "seed_tec": 1906,
+    "seed_ts": 748
+  },
+  {
+    "rodada": 3,
+    "replicacao": 121,
+    "seed_tec": 1967,
+    "seed_ts": 1696
+  },
+  {
+    "rodada": 3,
+    "replicacao": 122,
+    "seed_tec": 1349,
+    "seed_ts": 63
+  },
+  {
+    "rodada": 3,
+    "replicacao": 123,
+    "seed_tec": 877,
+    "seed_ts": 1859
+  },
+  {
+    "rodada": 3,
+    "replicacao": 124,
+    "seed_tec": 1074,
+    "seed_ts": 417
+  },
+  {
+    "rodada": 3,
+    "replicacao": 125,
+    "seed_tec": 353,
+    "seed_ts": 236
+  },
+  {
+    "rodada": 3,
+    "replicacao": 126,
+    "seed_tec": 1386,
+    "seed_ts": 725
+  },
+  {
+    "rodada": 3,
+    "replicacao": 127,
+    "seed_tec": 1218,
+    "seed_ts": 238
+  },
+  {
+    "rodada": 3,
+    "replicacao": 128,
+    "seed_tec": 1688,
+    "seed_ts": 1132
+  },
+  {
+    "rodada": 3,
+    "replicacao": 129,
+    "seed_tec": 188,
+    "seed_ts": 987
+  },
+  {
+    "rodada": 3,
+    "replicacao": 130,
+    "seed_tec": 903,
+    "seed_ts": 1930
+  },
+  {
+    "rodada": 3,
+    "replicacao": 131,
+    "seed_tec": 1624,
+    "seed_ts": 744
+  },
+  {
+    "rodada": 3,
+    "replicacao": 132,
+    "seed_tec": 1427,
+    "seed_ts": 867
+  },
+  {
+    "rodada": 3,
+    "replicacao": 133,
+    "seed_tec": 1923,
+    "seed_ts": 1418
+  },
+  {
+    "rodada": 3,
+    "replicacao": 134,
+    "seed_tec": 763,
+    "seed_ts": 1460
+  },
+  {
+    "rodada": 3,
+    "replicacao": 135,
+    "seed_tec": 1013,
+    "seed_ts": 461
+  },
+  {
+    "rodada": 3,
+    "replicacao": 136,
+    "seed_tec": 1542,
+    "seed_ts": 1207
+  },
+  {
+    "rodada": 3,
+    "replicacao": 137,
+    "seed_tec": 409,
+    "seed_ts": 888
+  },
+  {
+    "rodada": 3,
+    "replicacao": 138,
+    "seed_tec": 1358,
+    "seed_ts": 185
+  },
+  {
+    "rodada": 3,
+    "replicacao": 139,
+    "seed_tec": 392,
+    "seed_ts": 1031
+  },
+  {
+    "rodada": 3,
+    "replicacao": 140,
+    "seed_tec": 1446,
+    "seed_ts": 1198
+  },
+  {
+    "rodada": 3,
+    "replicacao": 141,
+    "seed_tec": 1699,
+    "seed_ts": 1568
+  },
+  {
+    "rodada": 3,
+    "replicacao": 142,
+    "seed_tec": 723,
+    "seed_ts": 1634
+  },
+  {
+    "rodada": 3,
+    "replicacao": 143,
+    "seed_tec": 1441,
+    "seed_ts": 16
+  },
+  {
+    "rodada": 3,
+    "replicacao": 144,
+    "seed_tec": 1421,
+    "seed_ts": 83
+  },
+  {
+    "rodada": 3,
+    "replicacao": 145,
+    "seed_tec": 1918,
+    "seed_ts": 299
+  },
+  {
+    "rodada": 3,
+    "replicacao": 146,
+    "seed_tec": 665,
+    "seed_ts": 318
+  },
+  {
+    "rodada": 3,
+    "replicacao": 147,
+    "seed_tec": 834,
+    "seed_ts": 954
+  },
+  {
+    "rodada": 3,
+    "replicacao": 148,
+    "seed_tec": 1789,
+    "seed_ts": 746
+  },
+  {
+    "rodada": 3,
+    "replicacao": 149,
+    "seed_tec": 1054,
+    "seed_ts": 453
+  },
+  {
+    "rodada": 3,
+    "replicacao": 150,
+    "seed_tec": 616,
+    "seed_ts": 1141
+  },
+  {
+    "rodada": 3,
+    "replicacao": 151,
+    "seed_tec": 1836,
+    "seed_ts": 848
+  },
+  {
+    "rodada": 3,
+    "replicacao": 152,
+    "seed_tec": 1336,
+    "seed_ts": 1664
+  },
+  {
+    "rodada": 3,
+    "replicacao": 153,
+    "seed_tec": 110,
+    "seed_ts": 383
+  },
+  {
+    "rodada": 3,
+    "replicacao": 154,
+    "seed_tec": 1303,
+    "seed_ts": 1222
+  },
+  {
+    "rodada": 3,
+    "replicacao": 155,
+    "seed_tec": 263,
+    "seed_ts": 1951
+  },
+  {
+    "rodada": 3,
+    "replicacao": 156,
+    "seed_tec": 1107,
+    "seed_ts": 548
+  },
+  {
+    "rodada": 3,
+    "replicacao": 157,
+    "seed_tec": 286,
+    "seed_ts": 367
+  },
+  {
+    "rodada": 3,
+    "replicacao": 158,
+    "seed_tec": 614,
+    "seed_ts": 1962
+  },
+  {
+    "rodada": 3,
+    "replicacao": 159,
+    "seed_tec": 71,
+    "seed_ts": 126
+  },
+  {
+    "rodada": 3,
+    "replicacao": 160,
+    "seed_tec": 1753,
+    "seed_ts": 295
+  },
+  {
+    "rodada": 3,
+    "replicacao": 161,
+    "seed_tec": 314,
+    "seed_ts": 312
+  },
+  {
+    "rodada": 3,
+    "replicacao": 162,
+    "seed_tec": 388,
+    "seed_ts": 1350
+  },
+  {
+    "rodada": 3,
+    "replicacao": 163,
+    "seed_tec": 1281,
+    "seed_ts": 803
+  },
+  {
+    "rodada": 3,
+    "replicacao": 164,
+    "seed_tec": 1925,
+    "seed_ts": 1912
+  },
+  {
+    "rodada": 3,
+    "replicacao": 165,
+    "seed_tec": 280,
+    "seed_ts": 1931
+  },
+  {
+    "rodada": 3,
+    "replicacao": 166,
+    "seed_tec": 1197,
+    "seed_ts": 433
+  },
+  {
+    "rodada": 3,
+    "replicacao": 167,
+    "seed_tec": 1453,
+    "seed_ts": 1454
+  },
+  {
+    "rodada": 3,
+    "replicacao": 168,
+    "seed_tec": 1079,
+    "seed_ts": 1041
+  },
+  {
+    "rodada": 3,
+    "replicacao": 169,
+    "seed_tec": 879,
+    "seed_ts": 1248
+  },
+  {
+    "rodada": 3,
+    "replicacao": 170,
+    "seed_tec": 494,
+    "seed_ts": 1887
+  },
+  {
+    "rodada": 3,
+    "replicacao": 171,
+    "seed_tec": 60,
+    "seed_ts": 1604
+  },
+  {
+    "rodada": 3,
+    "replicacao": 172,
+    "seed_tec": 1331,
+    "seed_ts": 1657
+  },
+  {
+    "rodada": 3,
+    "replicacao": 173,
+    "seed_tec": 1067,
+    "seed_ts": 1082
+  },
+  {
+    "rodada": 3,
+    "replicacao": 174,
+    "seed_tec": 528,
+    "seed_ts": 1733
+  },
+  {
+    "rodada": 3,
+    "replicacao": 175,
+    "seed_tec": 160,
+    "seed_ts": 372
+  },
+  {
+    "rodada": 3,
+    "replicacao": 176,
+    "seed_tec": 1435,
+    "seed_ts": 696
+  },
+  {
+    "rodada": 3,
+    "replicacao": 177,
+    "seed_tec": 652,
+    "seed_ts": 1002
+  },
+  {
+    "rodada": 3,
+    "replicacao": 178,
+    "seed_tec": 1770,
+    "seed_ts": 1070
+  },
+  {
+    "rodada": 3,
+    "replicacao": 179,
+    "seed_tec": 1044,
+    "seed_ts": 1922
+  },
+  {
+    "rodada": 3,
+    "replicacao": 180,
+    "seed_tec": 989,
+    "seed_ts": 612
+  },
+  {
+    "rodada": 3,
+    "replicacao": 181,
+    "seed_tec": 1091,
+    "seed_ts": 1043
+  },
+  {
+    "rodada": 3,
+    "replicacao": 182,
+    "seed_tec": 133,
+    "seed_ts": 842
+  },
+  {
+    "rodada": 3,
+    "replicacao": 183,
+    "seed_tec": 111,
+    "seed_ts": 1670
+  },
+  {
+    "rodada": 3,
+    "replicacao": 184,
+    "seed_tec": 623,
+    "seed_ts": 820
+  },
+  {
+    "rodada": 3,
+    "replicacao": 185,
+    "seed_tec": 1050,
+    "seed_ts": 1635
+  },
+  {
+    "rodada": 3,
+    "replicacao": 186,
+    "seed_tec": 753,
+    "seed_ts": 1780
+  },
+  {
+    "rodada": 3,
+    "replicacao": 187,
+    "seed_tec": 955,
+    "seed_ts": 520
+  },
+  {
+    "rodada": 3,
+    "replicacao": 188,
+    "seed_tec": 750,
+    "seed_ts": 985
+  },
+  {
+    "rodada": 3,
+    "replicacao": 189,
+    "seed_tec": 1257,
+    "seed_ts": 1515
+  },
+  {
+    "rodada": 3,
+    "replicacao": 190,
+    "seed_tec": 1004,
+    "seed_ts": 76
+  },
+  {
+    "rodada": 3,
+    "replicacao": 191,
+    "seed_tec": 513,
+    "seed_ts": 670
+  },
+  {
+    "rodada": 3,
+    "replicacao": 192,
+    "seed_tec": 1001,
+    "seed_ts": 1472
+  },
+  {
+    "rodada": 3,
+    "replicacao": 193,
+    "seed_tec": 983,
+    "seed_ts": 1448
+  },
+  {
+    "rodada": 3,
+    "replicacao": 194,
+    "seed_tec": 712,
+    "seed_ts": 1855
+  },
+  {
+    "rodada": 3,
+    "replicacao": 195,
+    "seed_tec": 699,
+    "seed_ts": 965
+  },
+  {
+    "rodada": 3,
+    "replicacao": 196,
+    "seed_tec": 1636,
+    "seed_ts": 1947
+  },
+  {
+    "rodada": 3,
+    "replicacao": 197,
+    "seed_tec": 1127,
+    "seed_ts": 1585
+  },
+  {
+    "rodada": 3,
+    "replicacao": 198,
+    "seed_tec": 1393,
+    "seed_ts": 860
+  },
+  {
+    "rodada": 3,
+    "replicacao": 199,
+    "seed_tec": 555,
+    "seed_ts": 58
+  },
+  {
+    "rodada": 3,
+    "replicacao": 200,
+    "seed_tec": 222,
+    "seed_ts": 273
+  },
+  {
+    "rodada": 4,
+    "replicacao": 1,
+    "seed_tec": 1146,
+    "seed_ts": 1069
+  },
+  {
+    "rodada": 4,
+    "replicacao": 2,
+    "seed_tec": 855,
+    "seed_ts": 1163
+  },
+  {
+    "rodada": 4,
+    "replicacao": 3,
+    "seed_tec": 1911,
+    "seed_ts": 634
+  },
+  {
+    "rodada": 4,
+    "replicacao": 4,
+    "seed_tec": 1508,
+    "seed_ts": 423
+  },
+  {
+    "rodada": 4,
+    "replicacao": 5,
+    "seed_tec": 950,
+    "seed_ts": 1483
+  },
+  {
+    "rodada": 4,
+    "replicacao": 6,
+    "seed_tec": 676,
+    "seed_ts": 320
+  },
+  {
+    "rodada": 4,
+    "replicacao": 7,
+    "seed_tec": 196,
+    "seed_ts": 1445
+  },
+  {
+    "rodada": 4,
+    "replicacao": 8,
+    "seed_tec": 1675,
+    "seed_ts": 1751
+  },
+  {
+    "rodada": 4,
+    "replicacao": 9,
+    "seed_tec": 1706,
+    "seed_ts": 1658
+  },
+  {
+    "rodada": 4,
+    "replicacao": 10,
+    "seed_tec": 757,
+    "seed_ts": 568
+  },
+  {
+    "rodada": 4,
+    "replicacao": 11,
+    "seed_tec": 1345,
+    "seed_ts": 1937
+  },
+  {
+    "rodada": 4,
+    "replicacao": 12,
+    "seed_tec": 429,
+    "seed_ts": 37
+  },
+  {
+    "rodada": 4,
+    "replicacao": 13,
+    "seed_tec": 1330,
+    "seed_ts": 1846
+  },
+  {
+    "rodada": 4,
+    "replicacao": 14,
+    "seed_tec": 1496,
+    "seed_ts": 1363
+  },
+  {
+    "rodada": 4,
+    "replicacao": 15,
+    "seed_tec": 1409,
+    "seed_ts": 25
+  },
+  {
+    "rodada": 4,
+    "replicacao": 16,
+    "seed_tec": 694,
+    "seed_ts": 990
+  },
+  {
+    "rodada": 4,
+    "replicacao": 17,
+    "seed_tec": 1717,
+    "seed_ts": 850
+  },
+  {
+    "rodada": 4,
+    "replicacao": 18,
+    "seed_tec": 1186,
+    "seed_ts": 685
+  },
+  {
+    "rodada": 4,
+    "replicacao": 19,
+    "seed_tec": 268,
+    "seed_ts": 517
+  },
+  {
+    "rodada": 4,
+    "replicacao": 20,
+    "seed_tec": 1145,
+    "seed_ts": 547
+  },
+  {
+    "rodada": 4,
+    "replicacao": 21,
+    "seed_tec": 22,
+    "seed_ts": 355
+  },
+  {
+    "rodada": 4,
+    "replicacao": 22,
+    "seed_tec": 1970,
+    "seed_ts": 123
+  },
+  {
+    "rodada": 4,
+    "replicacao": 23,
+    "seed_tec": 1522,
+    "seed_ts": 722
+  },
+  {
+    "rodada": 4,
+    "replicacao": 24,
+    "seed_tec": 1493,
+    "seed_ts": 430
+  },
+  {
+    "rodada": 4,
+    "replicacao": 25,
+    "seed_tec": 1668,
+    "seed_ts": 1403
+  },
+  {
+    "rodada": 4,
+    "replicacao": 26,
+    "seed_tec": 1946,
+    "seed_ts": 195
+  },
+  {
+    "rodada": 4,
+    "replicacao": 27,
+    "seed_tec": 690,
+    "seed_ts": 839
+  },
+  {
+    "rodada": 4,
+    "replicacao": 28,
+    "seed_tec": 675,
+    "seed_ts": 1126
+  },
+  {
+    "rodada": 4,
+    "replicacao": 29,
+    "seed_tec": 45,
+    "seed_ts": 819
+  },
+  {
+    "rodada": 4,
+    "replicacao": 30,
+    "seed_tec": 822,
+    "seed_ts": 1839
+  },
+  {
+    "rodada": 4,
+    "replicacao": 31,
+    "seed_tec": 1763,
+    "seed_ts": 602
+  },
+  {
+    "rodada": 4,
+    "replicacao": 32,
+    "seed_tec": 1278,
+    "seed_ts": 253
+  },
+  {
+    "rodada": 4,
+    "replicacao": 33,
+    "seed_tec": 1557,
+    "seed_ts": 294
+  },
+  {
+    "rodada": 4,
+    "replicacao": 34,
+    "seed_tec": 1298,
+    "seed_ts": 480
+  },
+  {
+    "rodada": 4,
+    "replicacao": 35,
+    "seed_tec": 1600,
+    "seed_ts": 1625
+  },
+  {
+    "rodada": 4,
+    "replicacao": 36,
+    "seed_tec": 298,
+    "seed_ts": 1652
+  },
+  {
+    "rodada": 4,
+    "replicacao": 37,
+    "seed_tec": 1641,
+    "seed_ts": 1800
+  },
+  {
+    "rodada": 4,
+    "replicacao": 38,
+    "seed_tec": 656,
+    "seed_ts": 242
+  },
+  {
+    "rodada": 4,
+    "replicacao": 39,
+    "seed_tec": 674,
+    "seed_ts": 549
+  },
+  {
+    "rodada": 4,
+    "replicacao": 40,
+    "seed_tec": 884,
+    "seed_ts": 262
+  },
+  {
+    "rodada": 4,
+    "replicacao": 41,
+    "seed_tec": 1161,
+    "seed_ts": 905
+  },
+  {
+    "rodada": 4,
+    "replicacao": 42,
+    "seed_tec": 1768,
+    "seed_ts": 436
+  },
+  {
+    "rodada": 4,
+    "replicacao": 43,
+    "seed_tec": 782,
+    "seed_ts": 1209
+  },
+  {
+    "rodada": 4,
+    "replicacao": 44,
+    "seed_tec": 840,
+    "seed_ts": 1588
+  },
+  {
+    "rodada": 4,
+    "replicacao": 45,
+    "seed_tec": 714,
+    "seed_ts": 451
+  },
+  {
+    "rodada": 4,
+    "replicacao": 46,
+    "seed_tec": 949,
+    "seed_ts": 1732
+  },
+  {
+    "rodada": 4,
+    "replicacao": 47,
+    "seed_tec": 362,
+    "seed_ts": 1580
+  },
+  {
+    "rodada": 4,
+    "replicacao": 48,
+    "seed_tec": 826,
+    "seed_ts": 1011
+  },
+  {
+    "rodada": 4,
+    "replicacao": 49,
+    "seed_tec": 661,
+    "seed_ts": 680
+  },
+  {
+    "rodada": 4,
+    "replicacao": 50,
+    "seed_tec": 1433,
+    "seed_ts": 1037
+  },
+  {
+    "rodada": 4,
+    "replicacao": 51,
+    "seed_tec": 886,
+    "seed_ts": 666
+  },
+  {
+    "rodada": 4,
+    "replicacao": 52,
+    "seed_tec": 345,
+    "seed_ts": 463
+  },
+  {
+    "rodada": 4,
+    "replicacao": 53,
+    "seed_tec": 1452,
+    "seed_ts": 1420
+  },
+  {
+    "rodada": 4,
+    "replicacao": 54,
+    "seed_tec": 1014,
+    "seed_ts": 180
+  },
+  {
+    "rodada": 4,
+    "replicacao": 55,
+    "seed_tec": 142,
+    "seed_ts": 170
+  },
+  {
+    "rodada": 4,
+    "replicacao": 56,
+    "seed_tec": 707,
+    "seed_ts": 1199
+  },
+  {
+    "rodada": 4,
+    "replicacao": 57,
+    "seed_tec": 1553,
+    "seed_ts": 735
+  },
+  {
+    "rodada": 4,
+    "replicacao": 58,
+    "seed_tec": 506,
+    "seed_ts": 1063
+  },
+  {
+    "rodada": 4,
+    "replicacao": 59,
+    "seed_tec": 1138,
+    "seed_ts": 1778
+  },
+  {
+    "rodada": 4,
+    "replicacao": 60,
+    "seed_tec": 1022,
+    "seed_ts": 972
+  },
+  {
+    "rodada": 4,
+    "replicacao": 61,
+    "seed_tec": 1953,
+    "seed_ts": 241
+  },
+  {
+    "rodada": 4,
+    "replicacao": 62,
+    "seed_tec": 618,
+    "seed_ts": 1264
+  },
+  {
+    "rodada": 4,
+    "replicacao": 63,
+    "seed_tec": 538,
+    "seed_ts": 781
+  },
+  {
+    "rodada": 4,
+    "replicacao": 64,
+    "seed_tec": 150,
+    "seed_ts": 220
+  },
+  {
+    "rodada": 4,
+    "replicacao": 65,
+    "seed_tec": 1414,
+    "seed_ts": 669
+  },
+  {
+    "rodada": 4,
+    "replicacao": 66,
+    "seed_tec": 1582,
+    "seed_ts": 260
+  },
+  {
+    "rodada": 4,
+    "replicacao": 67,
+    "seed_tec": 509,
+    "seed_ts": 1782
+  },
+  {
+    "rodada": 4,
+    "replicacao": 68,
+    "seed_tec": 1228,
+    "seed_ts": 1847
+  },
+  {
+    "rodada": 4,
+    "replicacao": 69,
+    "seed_tec": 1090,
+    "seed_ts": 443
+  },
+  {
+    "rodada": 4,
+    "replicacao": 70,
+    "seed_tec": 620,
+    "seed_ts": 754
+  },
+  {
+    "rodada": 4,
+    "replicacao": 71,
+    "seed_tec": 1721,
+    "seed_ts": 1429
+  },
+  {
+    "rodada": 4,
+    "replicacao": 72,
+    "seed_tec": 5,
+    "seed_ts": 1318
+  },
+  {
+    "rodada": 4,
+    "replicacao": 73,
+    "seed_tec": 1055,
+    "seed_ts": 1915
+  },
+  {
+    "rodada": 4,
+    "replicacao": 74,
+    "seed_tec": 1479,
+    "seed_ts": 336
+  },
+  {
+    "rodada": 4,
+    "replicacao": 75,
+    "seed_tec": 297,
+    "seed_ts": 1105
+  },
+  {
+    "rodada": 4,
+    "replicacao": 76,
+    "seed_tec": 1462,
+    "seed_ts": 1889
+  },
+  {
+    "rodada": 4,
+    "replicacao": 77,
+    "seed_tec": 61,
+    "seed_ts": 1389
+  },
+  {
+    "rodada": 4,
+    "replicacao": 78,
+    "seed_tec": 1705,
+    "seed_ts": 1101
+  },
+  {
+    "rodada": 4,
+    "replicacao": 79,
+    "seed_tec": 729,
+    "seed_ts": 866
+  },
+  {
+    "rodada": 4,
+    "replicacao": 80,
+    "seed_tec": 984,
+    "seed_ts": 1980
+  },
+  {
+    "rodada": 4,
+    "replicacao": 81,
+    "seed_tec": 1241,
+    "seed_ts": 20
+  },
+  {
+    "rodada": 4,
+    "replicacao": 82,
+    "seed_tec": 1290,
+    "seed_ts": 1678
+  },
+  {
+    "rodada": 4,
+    "replicacao": 83,
+    "seed_tec": 796,
+    "seed_ts": 275
+  },
+  {
+    "rodada": 4,
+    "replicacao": 84,
+    "seed_tec": 1769,
+    "seed_ts": 585
+  },
+  {
+    "rodada": 4,
+    "replicacao": 85,
+    "seed_tec": 1466,
+    "seed_ts": 605
+  },
+  {
+    "rodada": 4,
+    "replicacao": 86,
+    "seed_tec": 600,
+    "seed_ts": 1506
+  },
+  {
+    "rodada": 4,
+    "replicacao": 87,
+    "seed_tec": 389,
+    "seed_ts": 1484
+  },
+  {
+    "rodada": 4,
+    "replicacao": 88,
+    "seed_tec": 1214,
+    "seed_ts": 86
+  },
+  {
+    "rodada": 4,
+    "replicacao": 89,
+    "seed_tec": 636,
+    "seed_ts": 536
+  },
+  {
+    "rodada": 4,
+    "replicacao": 90,
+    "seed_tec": 1982,
+    "seed_ts": 684
+  },
+  {
+    "rodada": 4,
+    "replicacao": 91,
+    "seed_tec": 1728,
+    "seed_ts": 291
+  },
+  {
+    "rodada": 4,
+    "replicacao": 92,
+    "seed_tec": 176,
+    "seed_ts": 215
+  },
+  {
+    "rodada": 4,
+    "replicacao": 93,
+    "seed_tec": 1438,
+    "seed_ts": 324
+  },
+  {
+    "rodada": 4,
+    "replicacao": 94,
+    "seed_tec": 1356,
+    "seed_ts": 1320
+  },
+  {
+    "rodada": 4,
+    "replicacao": 95,
+    "seed_tec": 1058,
+    "seed_ts": 1104
+  },
+  {
+    "rodada": 4,
+    "replicacao": 96,
+    "seed_tec": 780,
+    "seed_ts": 806
+  },
+  {
+    "rodada": 4,
+    "replicacao": 97,
+    "seed_tec": 1910,
+    "seed_ts": 1615
+  },
+  {
+    "rodada": 4,
+    "replicacao": 98,
+    "seed_tec": 629,
+    "seed_ts": 1193
+  },
+  {
+    "rodada": 4,
+    "replicacao": 99,
+    "seed_tec": 445,
+    "seed_ts": 1093
+  },
+  {
+    "rodada": 4,
+    "replicacao": 100,
+    "seed_tec": 38,
+    "seed_ts": 207
+  },
+  {
+    "rodada": 4,
+    "replicacao": 101,
+    "seed_tec": 1667,
+    "seed_ts": 543
+  },
+  {
+    "rodada": 4,
+    "replicacao": 102,
+    "seed_tec": 1774,
+    "seed_ts": 764
+  },
+  {
+    "rodada": 4,
+    "replicacao": 103,
+    "seed_tec": 613,
+    "seed_ts": 1748
+  },
+  {
+    "rodada": 4,
+    "replicacao": 104,
+    "seed_tec": 354,
+    "seed_ts": 1309
+  },
+  {
+    "rodada": 4,
+    "replicacao": 105,
+    "seed_tec": 1502,
+    "seed_ts": 837
+  },
+  {
+    "rodada": 4,
+    "replicacao": 106,
+    "seed_tec": 1886,
+    "seed_ts": 1499
+  },
+  {
+    "rodada": 4,
+    "replicacao": 107,
+    "seed_tec": 1631,
+    "seed_ts": 993
+  },
+  {
+    "rodada": 4,
+    "replicacao": 108,
+    "seed_tec": 315,
+    "seed_ts": 841
+  },
+  {
+    "rodada": 4,
+    "replicacao": 109,
+    "seed_tec": 1287,
+    "seed_ts": 325
+  },
+  {
+    "rodada": 4,
+    "replicacao": 110,
+    "seed_tec": 385,
+    "seed_ts": 640
+  },
+  {
+    "rodada": 4,
+    "replicacao": 111,
+    "seed_tec": 1786,
+    "seed_ts": 1380
+  },
+  {
+    "rodada": 4,
+    "replicacao": 112,
+    "seed_tec": 971,
+    "seed_ts": 1124
+  },
+  {
+    "rodada": 4,
+    "replicacao": 113,
+    "seed_tec": 1885,
+    "seed_ts": 1305
+  },
+  {
+    "rodada": 4,
+    "replicacao": 114,
+    "seed_tec": 941,
+    "seed_ts": 736
+  },
+  {
+    "rodada": 4,
+    "replicacao": 115,
+    "seed_tec": 768,
+    "seed_ts": 412
+  },
+  {
+    "rodada": 4,
+    "replicacao": 116,
+    "seed_tec": 704,
+    "seed_ts": 565
+  },
+  {
+    "rodada": 4,
+    "replicacao": 117,
+    "seed_tec": 1617,
+    "seed_ts": 477
+  },
+  {
+    "rodada": 4,
+    "replicacao": 118,
+    "seed_tec": 1835,
+    "seed_ts": 1690
+  },
+  {
+    "rodada": 4,
+    "replicacao": 119,
+    "seed_tec": 309,
+    "seed_ts": 1042
+  },
+  {
+    "rodada": 4,
+    "replicacao": 120,
+    "seed_tec": 1391,
+    "seed_ts": 455
+  },
+  {
+    "rodada": 4,
+    "replicacao": 121,
+    "seed_tec": 120,
+    "seed_ts": 964
+  },
+  {
+    "rodada": 4,
+    "replicacao": 122,
+    "seed_tec": 498,
+    "seed_ts": 1286
+  },
+  {
+    "rodada": 4,
+    "replicacao": 123,
+    "seed_tec": 1963,
+    "seed_ts": 1348
+  },
+  {
+    "rodada": 4,
+    "replicacao": 124,
+    "seed_tec": 116,
+    "seed_ts": 651
+  },
+  {
+    "rodada": 4,
+    "replicacao": 125,
+    "seed_tec": 1734,
+    "seed_ts": 1297
+  },
+  {
+    "rodada": 4,
+    "replicacao": 126,
+    "seed_tec": 1943,
+    "seed_ts": 544
+  },
+  {
+    "rodada": 4,
+    "replicacao": 127,
+    "seed_tec": 1053,
+    "seed_ts": 1332
+  },
+  {
+    "rodada": 4,
+    "replicacao": 128,
+    "seed_tec": 1547,
+    "seed_ts": 1133
+  },
+  {
+    "rodada": 4,
+    "replicacao": 129,
+    "seed_tec": 368,
+    "seed_ts": 1942
+  },
+  {
+    "rodada": 4,
+    "replicacao": 130,
+    "seed_tec": 1216,
+    "seed_ts": 1871
+  },
+  {
+    "rodada": 4,
+    "replicacao": 131,
+    "seed_tec": 284,
+    "seed_ts": 1575
+  },
+  {
+    "rodada": 4,
+    "replicacao": 132,
+    "seed_tec": 1595,
+    "seed_ts": 1747
+  },
+  {
+    "rodada": 4,
+    "replicacao": 133,
+    "seed_tec": 1854,
+    "seed_ts": 1759
+  },
+  {
+    "rodada": 4,
+    "replicacao": 134,
+    "seed_tec": 1579,
+    "seed_ts": 34
+  },
+  {
+    "rodada": 4,
+    "replicacao": 135,
+    "seed_tec": 1562,
+    "seed_ts": 468
+  },
+  {
+    "rodada": 4,
+    "replicacao": 136,
+    "seed_tec": 303,
+    "seed_ts": 523
+  },
+  {
+    "rodada": 4,
+    "replicacao": 137,
+    "seed_tec": 813,
+    "seed_ts": 1137
+  },
+  {
+    "rodada": 4,
+    "replicacao": 138,
+    "seed_tec": 1401,
+    "seed_ts": 1109
+  },
+  {
+    "rodada": 4,
+    "replicacao": 139,
+    "seed_tec": 1469,
+    "seed_ts": 1665
+  },
+  {
+    "rodada": 4,
+    "replicacao": 140,
+    "seed_tec": 1494,
+    "seed_ts": 1112
+  },
+  {
+    "rodada": 4,
+    "replicacao": 141,
+    "seed_tec": 376,
+    "seed_ts": 257
+  },
+  {
+    "rodada": 4,
+    "replicacao": 142,
+    "seed_tec": 450,
+    "seed_ts": 1357
+  },
+  {
+    "rodada": 4,
+    "replicacao": 143,
+    "seed_tec": 863,
+    "seed_ts": 491
+  },
+  {
+    "rodada": 4,
+    "replicacao": 144,
+    "seed_tec": 773,
+    "seed_ts": 787
+  },
+  {
+    "rodada": 4,
+    "replicacao": 145,
+    "seed_tec": 851,
+    "seed_ts": 1530
+  },
+  {
+    "rodada": 4,
+    "replicacao": 146,
+    "seed_tec": 259,
+    "seed_ts": 1185
+  },
+  {
+    "rodada": 4,
+    "replicacao": 147,
+    "seed_tec": 870,
+    "seed_ts": 59
+  },
+  {
+    "rodada": 4,
+    "replicacao": 148,
+    "seed_tec": 619,
+    "seed_ts": 1344
+  },
+  {
+    "rodada": 4,
+    "replicacao": 149,
+    "seed_tec": 1327,
+    "seed_ts": 1223
+  },
+  {
+    "rodada": 4,
+    "replicacao": 150,
+    "seed_tec": 726,
+    "seed_ts": 1837
+  },
+  {
+    "rodada": 4,
+    "replicacao": 151,
+    "seed_tec": 258,
+    "seed_ts": 77
+  },
+  {
+    "rodada": 4,
+    "replicacao": 152,
+    "seed_tec": 243,
+    "seed_ts": 1560
+  },
+  {
+    "rodada": 4,
+    "replicacao": 153,
+    "seed_tec": 1268,
+    "seed_ts": 333
+  },
+  {
+    "rodada": 4,
+    "replicacao": 154,
+    "seed_tec": 231,
+    "seed_ts": 1478
+  },
+  {
+    "rodada": 4,
+    "replicacao": 155,
+    "seed_tec": 115,
+    "seed_ts": 1149
+  },
+  {
+    "rodada": 4,
+    "replicacao": 156,
+    "seed_tec": 405,
+    "seed_ts": 702
+  },
+  {
+    "rodada": 4,
+    "replicacao": 157,
+    "seed_tec": 1111,
+    "seed_ts": 1674
+  },
+  {
+    "rodada": 4,
+    "replicacao": 158,
+    "seed_tec": 1919,
+    "seed_ts": 654
+  },
+  {
+    "rodada": 4,
+    "replicacao": 159,
+    "seed_tec": 854,
+    "seed_ts": 609
+  },
+  {
+    "rodada": 4,
+    "replicacao": 160,
+    "seed_tec": 251,
+    "seed_ts": 1490
+  },
+  {
+    "rodada": 4,
+    "replicacao": 161,
+    "seed_tec": 594,
+    "seed_ts": 1627
+  },
+  {
+    "rodada": 4,
+    "replicacao": 162,
+    "seed_tec": 1424,
+    "seed_ts": 577
+  },
+  {
+    "rodada": 4,
+    "replicacao": 163,
+    "seed_tec": 49,
+    "seed_ts": 895
+  },
+  {
+    "rodada": 4,
+    "replicacao": 164,
+    "seed_tec": 1465,
+    "seed_ts": 1507
+  },
+  {
+    "rodada": 4,
+    "replicacao": 165,
+    "seed_tec": 119,
+    "seed_ts": 1587
+  },
+  {
+    "rodada": 4,
+    "replicacao": 166,
+    "seed_tec": 598,
+    "seed_ts": 797
+  },
+  {
+    "rodada": 4,
+    "replicacao": 167,
+    "seed_tec": 1954,
+    "seed_ts": 1396
+  },
+  {
+    "rodada": 4,
+    "replicacao": 168,
+    "seed_tec": 1027,
+    "seed_ts": 767
+  },
+  {
+    "rodada": 4,
+    "replicacao": 169,
+    "seed_tec": 1406,
+    "seed_ts": 245
+  },
+  {
+    "rodada": 4,
+    "replicacao": 170,
+    "seed_tec": 1385,
+    "seed_ts": 873
+  },
+  {
+    "rodada": 4,
+    "replicacao": 171,
+    "seed_tec": 948,
+    "seed_ts": 1217
+  },
+  {
+    "rodada": 4,
+    "replicacao": 172,
+    "seed_tec": 442,
+    "seed_ts": 1245
+  },
+  {
+    "rodada": 4,
+    "replicacao": 173,
+    "seed_tec": 648,
+    "seed_ts": 828
+  },
+  {
+    "rodada": 4,
+    "replicacao": 174,
+    "seed_tec": 78,
+    "seed_ts": 1260
+  },
+  {
+    "rodada": 4,
+    "replicacao": 175,
+    "seed_tec": 1463,
+    "seed_ts": 1341
+  },
+  {
+    "rodada": 4,
+    "replicacao": 176,
+    "seed_tec": 1282,
+    "seed_ts": 1244
+  },
+  {
+    "rodada": 4,
+    "replicacao": 177,
+    "seed_tec": 934,
+    "seed_ts": 646
+  },
+  {
+    "rodada": 4,
+    "replicacao": 178,
+    "seed_tec": 718,
+    "seed_ts": 1181
+  },
+  {
+    "rodada": 4,
+    "replicacao": 179,
+    "seed_tec": 1150,
+    "seed_ts": 1405
+  },
+  {
+    "rodada": 4,
+    "replicacao": 180,
+    "seed_tec": 193,
+    "seed_ts": 252
+  },
+  {
+    "rodada": 4,
+    "replicacao": 181,
+    "seed_tec": 635,
+    "seed_ts": 48
+  },
+  {
+    "rodada": 4,
+    "replicacao": 182,
+    "seed_tec": 482,
+    "seed_ts": 1594
+  },
+  {
+    "rodada": 4,
+    "replicacao": 183,
+    "seed_tec": 118,
+    "seed_ts": 32
+  },
+  {
+    "rodada": 4,
+    "replicacao": 184,
+    "seed_tec": 1659,
+    "seed_ts": 527
+  },
+  {
+    "rodada": 4,
+    "replicacao": 185,
+    "seed_tec": 1738,
+    "seed_ts": 1902
+  },
+  {
+    "rodada": 4,
+    "replicacao": 186,
+    "seed_tec": 129,
+    "seed_ts": 525
+  },
+  {
+    "rodada": 4,
+    "replicacao": 187,
+    "seed_tec": 535,
+    "seed_ts": 331
+  },
+  {
+    "rodada": 4,
+    "replicacao": 188,
+    "seed_tec": 645,
+    "seed_ts": 597
+  },
+  {
+    "rodada": 4,
+    "replicacao": 189,
+    "seed_tec": 131,
+    "seed_ts": 1754
+  },
+  {
+    "rodada": 4,
+    "replicacao": 190,
+    "seed_tec": 567,
+    "seed_ts": 643
+  },
+  {
+    "rodada": 4,
+    "replicacao": 191,
+    "seed_tec": 1913,
+    "seed_ts": 1979
+  },
+  {
+    "rodada": 4,
+    "replicacao": 192,
+    "seed_tec": 1291,
+    "seed_ts": 1628
+  },
+  {
+    "rodada": 4,
+    "replicacao": 193,
+    "seed_tec": 380,
+    "seed_ts": 1480
+  },
+  {
+    "rodada": 4,
+    "replicacao": 194,
+    "seed_tec": 730,
+    "seed_ts": 1555
+  },
+  {
+    "rodada": 4,
+    "replicacao": 195,
+    "seed_tec": 124,
+    "seed_ts": 1402
+  },
+  {
+    "rodada": 4,
+    "replicacao": 196,
+    "seed_tec": 1729,
+    "seed_ts": 351
+  },
+  {
+    "rodada": 4,
+    "replicacao": 197,
+    "seed_tec": 894,
+    "seed_ts": 1797
+  },
+  {
+    "rodada": 4,
+    "replicacao": 198,
+    "seed_tec": 541,
+    "seed_ts": 208
+  },
+  {
+    "rodada": 4,
+    "replicacao": 199,
+    "seed_tec": 272,
+    "seed_ts": 1991
+  },
+  {
+    "rodada": 4,
+    "replicacao": 200,
+    "seed_tec": 1623,
+    "seed_ts": 1773
+  },
+  {
+    "rodada": 5,
+    "replicacao": 1,
+    "seed_tec": 1153,
+    "seed_ts": 604
+  },
+  {
+    "rodada": 5,
+    "replicacao": 2,
+    "seed_tec": 1168,
+    "seed_ts": 440
+  },
+  {
+    "rodada": 5,
+    "replicacao": 3,
+    "seed_tec": 1498,
+    "seed_ts": 1164
+  },
+  {
+    "rodada": 5,
+    "replicacao": 4,
+    "seed_tec": 1976,
+    "seed_ts": 1139
+  },
+  {
+    "rodada": 5,
+    "replicacao": 5,
+    "seed_tec": 575,
+    "seed_ts": 1467
+  },
+  {
+    "rodada": 5,
+    "replicacao": 6,
+    "seed_tec": 1916,
+    "seed_ts": 225
+  },
+  {
+    "rodada": 5,
+    "replicacao": 7,
+    "seed_tec": 444,
+    "seed_ts": 1103
+  },
+  {
+    "rodada": 5,
+    "replicacao": 8,
+    "seed_tec": 1983,
+    "seed_ts": 1408
+  },
+  {
+    "rodada": 5,
+    "replicacao": 9,
+    "seed_tec": 1151,
+    "seed_ts": 1620
+  },
+  {
+    "rodada": 5,
+    "replicacao": 10,
+    "seed_tec": 322,
+    "seed_ts": 721
+  },
+  {
+    "rodada": 5,
+    "replicacao": 11,
+    "seed_tec": 56,
+    "seed_ts": 374
+  },
+  {
+    "rodada": 5,
+    "replicacao": 12,
+    "seed_tec": 1373,
+    "seed_ts": 1743
+  },
+  {
+    "rodada": 5,
+    "replicacao": 13,
+    "seed_tec": 1117,
+    "seed_ts": 836
+  },
+  {
+    "rodada": 5,
+    "replicacao": 14,
+    "seed_tec": 677,
+    "seed_ts": 1672
+  },
+  {
+    "rodada": 5,
+    "replicacao": 15,
+    "seed_tec": 931,
+    "seed_ts": 191
+  },
+  {
+    "rodada": 5,
+    "replicacao": 16,
+    "seed_tec": 1767,
+    "seed_ts": 474
+  },
+  {
+    "rodada": 5,
+    "replicacao": 17,
+    "seed_tec": 439,
+    "seed_ts": 194
+  },
+  {
+    "rodada": 5,
+    "replicacao": 18,
+    "seed_tec": 561,
+    "seed_ts": 1858
+  },
+  {
+    "rodada": 5,
+    "replicacao": 19,
+    "seed_tec": 1993,
+    "seed_ts": 1632
+  },
+  {
+    "rodada": 5,
+    "replicacao": 20,
+    "seed_tec": 1080,
+    "seed_ts": 246
+  },
+  {
+    "rodada": 5,
+    "replicacao": 21,
+    "seed_tec": 911,
+    "seed_ts": 1877
+  },
+  {
+    "rodada": 5,
+    "replicacao": 22,
+    "seed_tec": 1064,
+    "seed_ts": 1712
+  },
+  {
+    "rodada": 5,
+    "replicacao": 23,
+    "seed_tec": 363,
+    "seed_ts": 958
+  },
+  {
+    "rodada": 5,
+    "replicacao": 24,
+    "seed_tec": 1938,
+    "seed_ts": 852
+  },
+  {
+    "rodada": 5,
+    "replicacao": 25,
+    "seed_tec": 1598,
+    "seed_ts": 1710
+  },
+  {
+    "rodada": 5,
+    "replicacao": 26,
+    "seed_tec": 951,
+    "seed_ts": 540
+  },
+  {
+    "rodada": 5,
+    "replicacao": 27,
+    "seed_tec": 358,
+    "seed_ts": 705
+  },
+  {
+    "rodada": 5,
+    "replicacao": 28,
+    "seed_tec": 384,
+    "seed_ts": 625
+  },
+  {
+    "rodada": 5,
+    "replicacao": 29,
+    "seed_tec": 785,
+    "seed_ts": 162
+  },
+  {
+    "rodada": 5,
+    "replicacao": 30,
+    "seed_tec": 849,
+    "seed_ts": 1092
+  },
+  {
+    "rodada": 5,
+    "replicacao": 31,
+    "seed_tec": 1806,
+    "seed_ts": 559
+  },
+  {
+    "rodada": 5,
+    "replicacao": 32,
+    "seed_tec": 799,
+    "seed_ts": 381
+  },
+  {
+    "rodada": 5,
+    "replicacao": 33,
+    "seed_tec": 1355,
+    "seed_ts": 329
+  },
+  {
+    "rodada": 5,
+    "replicacao": 34,
+    "seed_tec": 283,
+    "seed_ts": 1059
+  },
+  {
+    "rodada": 5,
+    "replicacao": 35,
+    "seed_tec": 1609,
+    "seed_ts": 448
+  },
+  {
+    "rodada": 5,
+    "replicacao": 36,
+    "seed_tec": 1086,
+    "seed_ts": 1323
+  },
+  {
+    "rodada": 5,
+    "replicacao": 37,
+    "seed_tec": 1890,
+    "seed_ts": 42
+  },
+  {
+    "rodada": 5,
+    "replicacao": 38,
+    "seed_tec": 1694,
+    "seed_ts": 1457
+  },
+  {
+    "rodada": 5,
+    "replicacao": 39,
+    "seed_tec": 991,
+    "seed_ts": 387
+  },
+  {
+    "rodada": 5,
+    "replicacao": 40,
+    "seed_tec": 1313,
+    "seed_ts": 1546
+  },
+  {
+    "rodada": 5,
+    "replicacao": 41,
+    "seed_tec": 926,
+    "seed_ts": 99
+  },
+  {
+    "rodada": 5,
+    "replicacao": 42,
+    "seed_tec": 1116,
+    "seed_ts": 1328
+  },
+  {
+    "rodada": 5,
+    "replicacao": 43,
+    "seed_tec": 93,
+    "seed_ts": 356
+  },
+  {
+    "rodada": 5,
+    "replicacao": 44,
+    "seed_tec": 1995,
+    "seed_ts": 401
+  },
+  {
+    "rodada": 5,
+    "replicacao": 45,
+    "seed_tec": 70,
+    "seed_ts": 818
+  },
+  {
+    "rodada": 5,
+    "replicacao": 46,
+    "seed_tec": 1121,
+    "seed_ts": 143
+  },
+  {
+    "rodada": 5,
+    "replicacao": 47,
+    "seed_tec": 1927,
+    "seed_ts": 1390
+  },
+  {
+    "rodada": 5,
+    "replicacao": 48,
+    "seed_tec": 478,
+    "seed_ts": 1226
+  },
+  {
+    "rodada": 5,
+    "replicacao": 49,
+    "seed_tec": 940,
+    "seed_ts": 689
+  },
+  {
+    "rodada": 5,
+    "replicacao": 50,
+    "seed_tec": 1277,
+    "seed_ts": 889
+  },
+  {
+    "rodada": 5,
+    "replicacao": 51,
+    "seed_tec": 424,
+    "seed_ts": 1065
+  },
+  {
+    "rodada": 5,
+    "replicacao": 52,
+    "seed_tec": 1211,
+    "seed_ts": 316
+  },
+  {
+    "rodada": 5,
+    "replicacao": 53,
+    "seed_tec": 350,
+    "seed_ts": 1853
+  },
+  {
+    "rodada": 5,
+    "replicacao": 54,
+    "seed_tec": 1267,
+    "seed_ts": 1171
+  },
+  {
+    "rodada": 5,
+    "replicacao": 55,
+    "seed_tec": 1830,
+    "seed_ts": 1020
+  },
+  {
+    "rodada": 5,
+    "replicacao": 56,
+    "seed_tec": 249,
+    "seed_ts": 668
+  },
+  {
+    "rodada": 5,
+    "replicacao": 57,
+    "seed_tec": 922,
+    "seed_ts": 622
+  },
+  {
+    "rodada": 5,
+    "replicacao": 58,
+    "seed_tec": 1399,
+    "seed_ts": 672
+  },
+  {
+    "rodada": 5,
+    "replicacao": 59,
+    "seed_tec": 975,
+    "seed_ts": 1046
+  },
+  {
+    "rodada": 5,
+    "replicacao": 60,
+    "seed_tec": 1720,
+    "seed_ts": 53
+  },
+  {
+    "rodada": 5,
+    "replicacao": 61,
+    "seed_tec": 1577,
+    "seed_ts": 724
+  },
+  {
+    "rodada": 5,
+    "replicacao": 62,
+    "seed_tec": 1324,
+    "seed_ts": 711
+  },
+  {
+    "rodada": 5,
+    "replicacao": 63,
+    "seed_tec": 1708,
+    "seed_ts": 106
+  },
+  {
+    "rodada": 5,
+    "replicacao": 64,
+    "seed_tec": 151,
+    "seed_ts": 798
+  },
+  {
+    "rodada": 5,
+    "replicacao": 65,
+    "seed_tec": 218,
+    "seed_ts": 1790
+  },
+  {
+    "rodada": 5,
+    "replicacao": 66,
+    "seed_tec": 1997,
+    "seed_ts": 403
+  },
+  {
+    "rodada": 5,
+    "replicacao": 67,
+    "seed_tec": 1653,
+    "seed_ts": 1066
+  },
+  {
+    "rodada": 5,
+    "replicacao": 68,
+    "seed_tec": 305,
+    "seed_ts": 1920
+  },
+  {
+    "rodada": 5,
+    "replicacao": 69,
+    "seed_tec": 800,
+    "seed_ts": 844
+  },
+  {
+    "rodada": 5,
+    "replicacao": 70,
+    "seed_tec": 1040,
+    "seed_ts": 627
+  },
+  {
+    "rodada": 5,
+    "replicacao": 71,
+    "seed_tec": 1201,
+    "seed_ts": 1603
+  },
+  {
+    "rodada": 5,
+    "replicacao": 72,
+    "seed_tec": 1984,
+    "seed_ts": 278
+  },
+  {
+    "rodada": 5,
+    "replicacao": 73,
+    "seed_tec": 328,
+    "seed_ts": 1772
+  },
+  {
+    "rodada": 5,
+    "replicacao": 74,
+    "seed_tec": 856,
+    "seed_ts": 173
+  },
+  {
+    "rodada": 5,
+    "replicacao": 75,
+    "seed_tec": 596,
+    "seed_ts": 1034
+  },
+  {
+    "rodada": 5,
+    "replicacao": 76,
+    "seed_tec": 1832,
+    "seed_ts": 1225
+  },
+  {
+    "rodada": 5,
+    "replicacao": 77,
+    "seed_tec": 269,
+    "seed_ts": 1205
+  },
+  {
+    "rodada": 5,
+    "replicacao": 78,
+    "seed_tec": 969,
+    "seed_ts": 457
+  },
+  {
+    "rodada": 5,
+    "replicacao": 79,
+    "seed_tec": 1865,
+    "seed_ts": 277
+  },
+  {
+    "rodada": 5,
+    "replicacao": 80,
+    "seed_tec": 1476,
+    "seed_ts": 1413
+  },
+  {
+    "rodada": 5,
+    "replicacao": 81,
+    "seed_tec": 1008,
+    "seed_ts": 1576
+  },
+  {
+    "rodada": 5,
+    "replicacao": 82,
+    "seed_tec": 1177,
+    "seed_ts": 1195
+  },
+  {
+    "rodada": 5,
+    "replicacao": 83,
+    "seed_tec": 1362,
+    "seed_ts": 642
+  },
+  {
+    "rodada": 5,
+    "replicacao": 84,
+    "seed_tec": 11,
+    "seed_ts": 317
+  },
+  {
+    "rodada": 5,
+    "replicacao": 85,
+    "seed_tec": 732,
+    "seed_ts": 1302
+  },
+  {
+    "rodada": 5,
+    "replicacao": 86,
+    "seed_tec": 1552,
+    "seed_ts": 1370
+  },
+  {
+    "rodada": 5,
+    "replicacao": 87,
+    "seed_tec": 550,
+    "seed_ts": 1785
+  },
+  {
+    "rodada": 5,
+    "replicacao": 88,
+    "seed_tec": 1540,
+    "seed_ts": 92
+  },
+  {
+    "rodada": 5,
+    "replicacao": 89,
+    "seed_tec": 1272,
+    "seed_ts": 248
+  },
+  {
+    "rodada": 5,
+    "replicacao": 90,
+    "seed_tec": 508,
+    "seed_ts": 408
+  },
+  {
+    "rodada": 5,
+    "replicacao": 91,
+    "seed_tec": 1626,
+    "seed_ts": 1250
+  },
+  {
+    "rodada": 5,
+    "replicacao": 92,
+    "seed_tec": 171,
+    "seed_ts": 1713
+  },
+  {
+    "rodada": 5,
+    "replicacao": 93,
+    "seed_tec": 1120,
+    "seed_ts": 1190
+  },
+  {
+    "rodada": 5,
+    "replicacao": 94,
+    "seed_tec": 925,
+    "seed_ts": 1
+  },
+  {
+    "rodada": 5,
+    "replicacao": 95,
+    "seed_tec": 189,
+    "seed_ts": 29
+  },
+  {
+    "rodada": 5,
+    "replicacao": 96,
+    "seed_tec": 1964,
+    "seed_ts": 300
+  },
+  {
+    "rodada": 5,
+    "replicacao": 97,
+    "seed_tec": 843,
+    "seed_ts": 1755
+  },
+  {
+    "rodada": 5,
+    "replicacao": 98,
+    "seed_tec": 1531,
+    "seed_ts": 399
+  },
+  {
+    "rodada": 5,
+    "replicacao": 99,
+    "seed_tec": 198,
+    "seed_ts": 759
+  },
+  {
+    "rodada": 5,
+    "replicacao": 100,
+    "seed_tec": 1917,
+    "seed_ts": 546
+  },
+  {
+    "rodada": 5,
+    "replicacao": 101,
+    "seed_tec": 1329,
+    "seed_ts": 132
+  },
+  {
+    "rodada": 5,
+    "replicacao": 102,
+    "seed_tec": 1898,
+    "seed_ts": 1491
+  },
+  {
+    "rodada": 5,
+    "replicacao": 103,
+    "seed_tec": 1981,
+    "seed_ts": 1914
+  },
+  {
+    "rodada": 5,
+    "replicacao": 104,
+    "seed_tec": 375,
+    "seed_ts": 928
+  },
+  {
+    "rodada": 5,
+    "replicacao": 105,
+    "seed_tec": 531,
+    "seed_ts": 1056
+  },
+  {
+    "rodada": 5,
+    "replicacao": 106,
+    "seed_tec": 1608,
+    "seed_ts": 1932
+  },
+  {
+    "rodada": 5,
+    "replicacao": 107,
+    "seed_tec": 1412,
+    "seed_ts": 898
+  },
+  {
+    "rodada": 5,
+    "replicacao": 108,
+    "seed_tec": 202,
+    "seed_ts": 1663
+  },
+  {
+    "rodada": 5,
+    "replicacao": 109,
+    "seed_tec": 938,
+    "seed_ts": 649
+  },
+  {
+    "rodada": 5,
+    "replicacao": 110,
+    "seed_tec": 595,
+    "seed_ts": 1703
+  },
+  {
+    "rodada": 5,
+    "replicacao": 111,
+    "seed_tec": 69,
+    "seed_ts": 1360
+  },
+  {
+    "rodada": 5,
+    "replicacao": 112,
+    "seed_tec": 1143,
+    "seed_ts": 890
+  },
+  {
+    "rodada": 5,
+    "replicacao": 113,
+    "seed_tec": 1655,
+    "seed_ts": 1019
+  },
+  {
+    "rodada": 5,
+    "replicacao": 114,
+    "seed_tec": 1693,
+    "seed_ts": 1571
+  },
+  {
+    "rodada": 5,
+    "replicacao": 115,
+    "seed_tec": 1048,
+    "seed_ts": 956
+  },
+  {
+    "rodada": 5,
+    "replicacao": 116,
+    "seed_tec": 995,
+    "seed_ts": 1419
+  },
+  {
+    "rodada": 5,
+    "replicacao": 117,
+    "seed_tec": 533,
+    "seed_ts": 410
+  },
+  {
+    "rodada": 5,
+    "replicacao": 118,
+    "seed_tec": 738,
+    "seed_ts": 1003
+  },
+  {
+    "rodada": 5,
+    "replicacao": 119,
+    "seed_tec": 1071,
+    "seed_ts": 1646
+  },
+  {
+    "rodada": 5,
+    "replicacao": 120,
+    "seed_tec": 939,
+    "seed_ts": 1224
+  },
+  {
+    "rodada": 5,
+    "replicacao": 121,
+    "seed_tec": 1807,
+    "seed_ts": 1343
+  },
+  {
+    "rodada": 5,
+    "replicacao": 122,
+    "seed_tec": 307,
+    "seed_ts": 68
+  },
+  {
+    "rodada": 5,
+    "replicacao": 123,
+    "seed_tec": 19,
+    "seed_ts": 551
+  },
+  {
+    "rodada": 5,
+    "replicacao": 124,
+    "seed_tec": 1704,
+    "seed_ts": 603
+  },
+  {
+    "rodada": 5,
+    "replicacao": 125,
+    "seed_tec": 415,
+    "seed_ts": 887
+  },
+  {
+    "rodada": 5,
+    "replicacao": 126,
+    "seed_tec": 1862,
+    "seed_ts": 1876
+  },
+  {
+    "rodada": 5,
+    "replicacao": 127,
+    "seed_tec": 1895,
+    "seed_ts": 981
+  },
+  {
+    "rodada": 5,
+    "replicacao": 128,
+    "seed_tec": 1431,
+    "seed_ts": 1028
+  },
+  {
+    "rodada": 5,
+    "replicacao": 129,
+    "seed_tec": 1325,
+    "seed_ts": 1638
+  },
+  {
+    "rodada": 5,
+    "replicacao": 130,
+    "seed_tec": 1123,
+    "seed_ts": 631
+  },
+  {
+    "rodada": 5,
+    "replicacao": 131,
+    "seed_tec": 1372,
+    "seed_ts": 824
+  },
+  {
+    "rodada": 5,
+    "replicacao": 132,
+    "seed_tec": 1147,
+    "seed_ts": 515
+  },
+  {
+    "rodada": 5,
+    "replicacao": 133,
+    "seed_tec": 1118,
+    "seed_ts": 1464
+  },
+  {
+    "rodada": 5,
+    "replicacao": 134,
+    "seed_tec": 962,
+    "seed_ts": 1381
+  },
+  {
+    "rodada": 5,
+    "replicacao": 135,
+    "seed_tec": 936,
+    "seed_ts": 1436
+  },
+  {
+    "rodada": 5,
+    "replicacao": 136,
+    "seed_tec": 1284,
+    "seed_ts": 250
+  },
+  {
+    "rodada": 5,
+    "replicacao": 137,
+    "seed_tec": 1815,
+    "seed_ts": 1741
+  },
+  {
+    "rodada": 5,
+    "replicacao": 138,
+    "seed_tec": 469,
+    "seed_ts": 1812
+  },
+  {
+    "rodada": 5,
+    "replicacao": 139,
+    "seed_tec": 988,
+    "seed_ts": 292
+  },
+  {
+    "rodada": 5,
+    "replicacao": 140,
+    "seed_tec": 963,
+    "seed_ts": 880
+  },
+  {
+    "rodada": 5,
+    "replicacao": 141,
+    "seed_tec": 1275,
+    "seed_ts": 1470
+  },
+  {
+    "rodada": 5,
+    "replicacao": 142,
+    "seed_tec": 1992,
+    "seed_ts": 1374
+  },
+  {
+    "rodada": 5,
+    "replicacao": 143,
+    "seed_tec": 1817,
+    "seed_ts": 1072
+  },
+  {
+    "rodada": 5,
+    "replicacao": 144,
+    "seed_tec": 1444,
+    "seed_ts": 101
+  },
+  {
+    "rodada": 5,
+    "replicacao": 145,
+    "seed_tec": 1676,
+    "seed_ts": 265
+  },
+  {
+    "rodada": 5,
+    "replicacao": 146,
+    "seed_tec": 1569,
+    "seed_ts": 460
+  },
+  {
+    "rodada": 5,
+    "replicacao": 147,
+    "seed_tec": 1179,
+    "seed_ts": 52
+  },
+  {
+    "rodada": 5,
+    "replicacao": 148,
+    "seed_tec": 1950,
+    "seed_ts": 1061
+  },
+  {
+    "rodada": 5,
+    "replicacao": 149,
+    "seed_tec": 1051,
+    "seed_ts": 982
+  },
+  {
+    "rodada": 5,
+    "replicacao": 150,
+    "seed_tec": 1897,
+    "seed_ts": 1156
+  },
+  {
+    "rodada": 5,
+    "replicacao": 151,
+    "seed_tec": 861,
+    "seed_ts": 1730
+  },
+  {
+    "rodada": 5,
+    "replicacao": 152,
+    "seed_tec": 530,
+    "seed_ts": 1075
+  },
+  {
+    "rodada": 5,
+    "replicacao": 153,
+    "seed_tec": 1878,
+    "seed_ts": 816
+  },
+  {
+    "rodada": 5,
+    "replicacao": 154,
+    "seed_tec": 1977,
+    "seed_ts": 1793
+  },
+  {
+    "rodada": 5,
+    "replicacao": 155,
+    "seed_tec": 1230,
+    "seed_ts": 1776
+  },
+  {
+    "rodada": 5,
+    "replicacao": 156,
+    "seed_tec": 1537,
+    "seed_ts": 1644
+  },
+  {
+    "rodada": 5,
+    "replicacao": 157,
+    "seed_tec": 1038,
+    "seed_ts": 872
+  },
+  {
+    "rodada": 5,
+    "replicacao": 158,
+    "seed_tec": 239,
+    "seed_ts": 1777
+  },
+  {
+    "rodada": 5,
+    "replicacao": 159,
+    "seed_tec": 1021,
+    "seed_ts": 1136
+  },
+  {
+    "rodada": 5,
+    "replicacao": 160,
+    "seed_tec": 1200,
+    "seed_ts": 1961
+  },
+  {
+    "rodada": 5,
+    "replicacao": 161,
+    "seed_tec": 817,
+    "seed_ts": 186
+  },
+  {
+    "rodada": 5,
+    "replicacao": 162,
+    "seed_tec": 865,
+    "seed_ts": 945
+  },
+  {
+    "rodada": 5,
+    "replicacao": 163,
+    "seed_tec": 745,
+    "seed_ts": 756
+  },
+  {
+    "rodada": 5,
+    "replicacao": 164,
+    "seed_tec": 1456,
+    "seed_ts": 1737
+  },
+  {
+    "rodada": 5,
+    "replicacao": 165,
+    "seed_tec": 51,
+    "seed_ts": 633
+  },
+  {
+    "rodada": 5,
+    "replicacao": 166,
+    "seed_tec": 1183,
+    "seed_ts": 1468
+  },
+  {
+    "rodada": 5,
+    "replicacao": 167,
+    "seed_tec": 1442,
+    "seed_ts": 1321
+  },
+  {
+    "rodada": 5,
+    "replicacao": 168,
+    "seed_tec": 1796,
+    "seed_ts": 289
+  },
+  {
+    "rodada": 5,
+    "replicacao": 169,
+    "seed_tec": 937,
+    "seed_ts": 590
+  },
+  {
+    "rodada": 5,
+    "replicacao": 170,
+    "seed_tec": 599,
+    "seed_ts": 1102
+  },
+  {
+    "rodada": 5,
+    "replicacao": 171,
+    "seed_tec": 1142,
+    "seed_ts": 184
+  },
+  {
+    "rodada": 5,
+    "replicacao": 172,
+    "seed_tec": 698,
+    "seed_ts": 1481
+  },
+  {
+    "rodada": 5,
+    "replicacao": 173,
+    "seed_tec": 157,
+    "seed_ts": 1307
+  },
+  {
+    "rodada": 5,
+    "replicacao": 174,
+    "seed_tec": 1052,
+    "seed_ts": 1528
+  },
+  {
+    "rodada": 5,
+    "replicacao": 175,
+    "seed_tec": 771,
+    "seed_ts": 1649
+  },
+  {
+    "rodada": 5,
+    "replicacao": 176,
+    "seed_tec": 731,
+    "seed_ts": 1904
+  },
+  {
+    "rodada": 5,
+    "replicacao": 177,
+    "seed_tec": 713,
+    "seed_ts": 516
+  },
+  {
+    "rodada": 5,
+    "replicacao": 178,
+    "seed_tec": 814,
+    "seed_ts": 431
+  },
+  {
+    "rodada": 5,
+    "replicacao": 179,
+    "seed_tec": 644,
+    "seed_ts": 1392
+  },
+  {
+    "rodada": 5,
+    "replicacao": 180,
+    "seed_tec": 1005,
+    "seed_ts": 1404
+  },
+  {
+    "rodada": 5,
+    "replicacao": 181,
+    "seed_tec": 1825,
+    "seed_ts": 1669
+  },
+  {
+    "rodada": 5,
+    "replicacao": 182,
+    "seed_tec": 24,
+    "seed_ts": 921
+  },
+  {
+    "rodada": 5,
+    "replicacao": 183,
+    "seed_tec": 201,
+    "seed_ts": 1673
+  },
+  {
+    "rodada": 5,
+    "replicacao": 184,
+    "seed_tec": 589,
+    "seed_ts": 227
+  },
+  {
+    "rodada": 5,
+    "replicacao": 185,
+    "seed_tec": 166,
+    "seed_ts": 1258
+  },
+  {
+    "rodada": 5,
+    "replicacao": 186,
+    "seed_tec": 6,
+    "seed_ts": 492
+  },
+  {
+    "rodada": 5,
+    "replicacao": 187,
+    "seed_tec": 904,
+    "seed_ts": 1202
+  },
+  {
+    "rodada": 5,
+    "replicacao": 188,
+    "seed_tec": 1584,
+    "seed_ts": 1539
+  },
+  {
+    "rodada": 5,
+    "replicacao": 189,
+    "seed_tec": 1006,
+    "seed_ts": 1574
+  },
+  {
+    "rodada": 5,
+    "replicacao": 190,
+    "seed_tec": 1591,
+    "seed_ts": 1497
+  },
+  {
+    "rodada": 5,
+    "replicacao": 191,
+    "seed_tec": 1726,
+    "seed_ts": 1122
+  },
+  {
+    "rodada": 5,
+    "replicacao": 192,
+    "seed_tec": 1173,
+    "seed_ts": 1605
+  },
+  {
+    "rodada": 5,
+    "replicacao": 193,
+    "seed_tec": 862,
+    "seed_ts": 1140
+  },
+  {
+    "rodada": 5,
+    "replicacao": 194,
+    "seed_tec": 1273,
+    "seed_ts": 1231
+  },
+  {
+    "rodada": 5,
+    "replicacao": 195,
+    "seed_tec": 1833,
+    "seed_ts": 458
+  },
+  {
+    "rodada": 5,
+    "replicacao": 196,
+    "seed_tec": 1811,
+    "seed_ts": 211
+  },
+  {
+    "rodada": 5,
+    "replicacao": 197,
+    "seed_tec": 1952,
+    "seed_ts": 1762
+  },
+  {
+    "rodada": 5,
+    "replicacao": 198,
+    "seed_tec": 1326,
+    "seed_ts": 1049
+  },
+  {
+    "rodada": 5,
+    "replicacao": 199,
+    "seed_tec": 1949,
+    "seed_ts": 1030
+  },
+  {
+    "rodada": 5,
+    "replicacao": 200,
+    "seed_tec": 655,
+    "seed_ts": 244
+  }
+]

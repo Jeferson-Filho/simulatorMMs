@@ -74,7 +74,6 @@ manual_simulator/
 ├── etapa2_mms.py           # Simulador principal M/M/s
 ├── gerar_seeds.py          # Gerador da tabela de sementes
 ├── seeds.json              # Tabela de pares (seed_tec, seed_ts) — não regenerar
-├── etapa1_manual.py        # Simulação manual de validação (5 clientes fixos)
 ├── requisitos.md           # Documento de requisitos do projeto
 ├── README.md               # Este arquivo
 └── results/

@@ -10,6 +10,7 @@ import json
 import random
 import os
 
+# parâmetros
 SEED_MESTRA    = 2026
 N_RODADAS      = 5
 N_REPLICACOES  = 200
@@ -22,12 +23,7 @@ def gerar_tabela_sementes(
     seed_mestra: int   = SEED_MESTRA,
 ) -> list[dict]:
     """
-    Gera n_rodadas × n_replicacoes pares (seed_tec, seed_ts) sem repetição global.
-
-    Algoritmo (Opção B):
-      1. Lista [1 .. 2 × n_rodadas × n_replicacoes]
-      2. Embaralha deterministicamente com seed_mestra
-      3. Divide em pares consecutivos; a rodada r usa os pares [(r-1)×n_replicacoes .. r×n_replicacoes - 1]
+    Gera n_rodadas * n_replicacoes pares (seed_tec, seed_ts) sem repetição global.
     """
     total_pares = n_rodadas * n_replicacoes
     lista = list(range(1, 2 * total_pares + 1))

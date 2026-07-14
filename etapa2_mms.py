@@ -9,13 +9,11 @@ import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from random_number_generator.gerador_aleatorio import GeradorAleatorio
 
+# parâmetros
 TEMPO_SIMULACAO = 200
 
 
-# ---------------------------------------------------------------------------
-# Geradores TEC e TS (seção 2)
-# ---------------------------------------------------------------------------
-
+# Geradores TEC e TS
 def gerar_tec(gerador_tec: GeradorAleatorio) -> float:
     """TEC = -ln(u) / (1/2)  →  média 2"""
     _, u = gerador_tec.proximo()
@@ -28,10 +26,7 @@ def gerar_ts(gerador_ts: GeradorAleatorio) -> float:
     return -math.log(u) / (1 / 8)
 
 
-# ---------------------------------------------------------------------------
-# Simulação M/M/s (seção 6)
-# ---------------------------------------------------------------------------
-
+# Simulação M/M/s
 def simular_mms(tempo_simulacao: float, NUM_CAIXAS: int, semente_tec: int, semente_ts: int) -> list[dict]:
     """Simula fila M/M/s até tempo_simulacao."""
     gerador_tec = GeradorAleatorio(semente_tec)
@@ -79,10 +74,7 @@ def simular_mms(tempo_simulacao: float, NUM_CAIXAS: int, semente_tec: int, semen
     return resultados
 
 
-# ---------------------------------------------------------------------------
-# Métricas por replicação (seção 7)
-# ---------------------------------------------------------------------------
-
+# Métricas por replicação
 def calcular_metricas(dados: list[dict], NUM_CAIXAS: int) -> dict:
     n = len(dados)
     if n == 0:
@@ -103,16 +95,13 @@ def calcular_metricas(dados: list[dict], NUM_CAIXAS: int) -> dict:
     }
 
 
-# ---------------------------------------------------------------------------
-# Estatísticas agregadas — seção 14
-# ---------------------------------------------------------------------------
-
+# Estatísticas agregadas
 def calcular_estatisticas_agregadas(valores: list[float]) -> dict:
     """
-    Dado uma lista de n valores (uma métrica por replicação), calcula:
-      - Média das médias:  x̄ = (1/n) Σ xi
-      - Desvio padrão amostral: s = sqrt((1/(n-1)) Σ (xi - x̄)²)
-      - IC 95%: x̄ ± 1,96 · s / sqrt(n)   (t ≈ 1,96 para n ≥ 130, seção 11)
+    Recebe os valores de uma métrica por replicação e calcula
+      - Média das médias
+      - Desvio padrão amostral
+      - IC 95%
     """
     n = len(valores)
     media = sum(valores) / n
@@ -128,10 +117,7 @@ def calcular_estatisticas_agregadas(valores: list[float]) -> dict:
     }
 
 
-# ---------------------------------------------------------------------------
 # Impressão auxiliar
-# ---------------------------------------------------------------------------
-
 def imprimir_metricas(m: dict, file=None):
     print(f"  Clientes simulados:       {m['n_clientes']}", file=file)
     print(f"  Tempo médio na fila:      {m['media_fila']:.4f}", file=file)
@@ -143,8 +129,7 @@ def imprimir_metricas(m: dict, file=None):
 
 
 def imprimir_tabela(dados: list[dict], max_linhas: int = 20, file=None):
-    cabecalho = ["Cliente", "Caixa", "TEC", "TS", "Chegada",
-                 "Início Serv.", "Fim Serv.", "T. Fila", "T. Sistema", "T. Ocioso"]
+    cabecalho = ["Cliente", "Caixa", "TEC", "TS", "Chegada", "Início Serv.", "Fim Serv.", "T. Fila", "T. Sistema", "T. Ocioso"]
     larguras  = [8, 9, 8, 8, 10, 13, 11, 9, 12, 11]
 
     def linha(vals):
@@ -168,23 +153,20 @@ def imprimir_tabela(dados: list[dict], max_linhas: int = 20, file=None):
         print(f"  ... ({len(dados) - max_linhas} linhas omitidas)", file=file)
 
 
-# ---------------------------------------------------------------------------
-# Ponto de entrada — roda todas as rodadas e cenários
-# ---------------------------------------------------------------------------
-
+# Main
 if __name__ == "__main__":
     import json
     import matplotlib
-    matplotlib.use("Agg")  # sem display; salva direto em arquivo
+    matplotlib.use("Agg")
     import matplotlib.pyplot as plt
 
+    # parâmetros
     CENARIOS      = [1, 2, 3, 4]
     CHAVES        = ["media_fila", "media_ts", "media_sistema", "media_ocioso_total"]
-    LABELS_METR   = ["Tempo médio na fila", "Tempo médio de serviço",
-                     "Tempo médio no sistema", "Tempo médio ocioso"]
+    LABELS_METR   = ["Tempo médio na fila", "Tempo médio de serviço", "Tempo médio no sistema", "Tempo médio ocioso"]
     CORES_CENARIO = {1: "#1f77b4", 2: "#ff7f0e", 3: "#2ca02c", 4: "#d62728"}
 
-    # Carrega tabela extendida (Opção B — seção 12)
+    # Carrega tabela de seeds
     seeds_path = os.path.join(os.path.dirname(__file__), "seeds.json")
     with open(seeds_path, encoding="utf-8") as fj:
         tabela_seeds = json.load(fj)
@@ -201,12 +183,9 @@ if __name__ == "__main__":
 
     print(f"\n=== M/M/s | T={TEMPO_SIMULACAO} | {n_rodadas} rodadas × {n_replicacoes} replicações | s={CENARIOS} ===\n")
 
-    # todos_resultados[rodada][num_caixas] = lista de dicts de métricas
     todos_resultados: dict[int, dict[int, list[dict]]] = {}
 
-    # ------------------------------------------------------------------
-    # Loop principal: rodadas → cenários → replicações
-    # ------------------------------------------------------------------
+    # rodadas --> cenários --> replicações
     for rodada, seeds_rodada in seeds_por_rodada.items():
         rodada_dir = os.path.join(results_dir, f"rodada_{rodada}")
         os.makedirs(rodada_dir, exist_ok=True)
@@ -251,9 +230,7 @@ if __name__ == "__main__":
             todos_resultados[rodada][num_caixas] = metricas_rep
             print(f"  -> s={num_caixas} concluído  ({arquivo})")
 
-        # ------------------------------------------------------------------
-        # Gráfico de convergência da rodada (média acumulada × replicação)
-        # ------------------------------------------------------------------
+        # Grafico de convergência da rodada
         fig, axes = plt.subplots(2, 2, figsize=(12, 8))
         fig.suptitle(f"Convergência da média acumulada — Rodada {rodada}", fontsize=13)
 
@@ -261,8 +238,7 @@ if __name__ == "__main__":
             for s in CENARIOS:
                 vals = [mr[chave] for mr in todos_resultados[rodada][s]]
                 medias_acum = [sum(vals[:k]) / k for k in range(1, n_replicacoes + 1)]
-                ax.plot(range(1, n_replicacoes + 1), medias_acum,
-                        label=f"s={s}", color=CORES_CENARIO[s], linewidth=1.2)
+                ax.plot(range(1, n_replicacoes + 1), medias_acum, label=f"s={s}", color=CORES_CENARIO[s], linewidth=1.2)
             ax.set_title(label, fontsize=10)
             ax.set_xlabel("Replicações (k)", fontsize=9)
             ax.set_ylabel("Média acumulada", fontsize=9)
@@ -275,13 +251,34 @@ if __name__ == "__main__":
         plt.close(fig)
         print(f"  -> Gráfico de convergência: {grafico_rodada}")
 
-    # ------------------------------------------------------------------
-    # Gráfico global: comparação entre cenários (todas as rodadas)
-    # Pool: concatena replicações de todas as rodadas por cenário
-    # ------------------------------------------------------------------
+    # Grafico de convergência por cenário
+    CORES_RODADA = plt.get_cmap("tab10").colors
+
+    for s in CENARIOS:
+        fig, axes = plt.subplots(2, 2, figsize=(12, 8))
+        fig.suptitle(f"Convergência da média acumulada — s={s} (todas as rodadas)", fontsize=13)
+
+        for ax, chave, label in zip(axes.flat, CHAVES, LABELS_METR):
+            for i, rodada in enumerate(todos_resultados):
+                vals = [mr[chave] for mr in todos_resultados[rodada][s]]
+                medias_acum = [sum(vals[:k]) / k for k in range(1, n_replicacoes + 1)]
+                ax.plot(range(1, n_replicacoes + 1), medias_acum, label=f"rodada {rodada}", color=CORES_RODADA[i % len(CORES_RODADA)], linewidth=1.2)
+            ax.set_title(label, fontsize=10)
+            ax.set_xlabel("Replicações (k)", fontsize=9)
+            ax.set_ylabel("Média acumulada", fontsize=9)
+            ax.legend(fontsize=8)
+            ax.grid(True, linestyle="--", alpha=0.5)
+
+        plt.tight_layout()
+        grafico_cenario = os.path.join(results_dir, f"convergencia_s{s}.png")
+        fig.savefig(grafico_cenario, dpi=120)
+        plt.close(fig)
+        print(f"-> Gráfico de convergência (s={s}): {grafico_cenario}")
+
+    # Grafico de comparação entre cenários
     fig, axes = plt.subplots(2, 2, figsize=(12, 8))
     fig.suptitle(
-        f"Comparação entre cenários — {n_rodadas} rodadas × {n_replicacoes} replicações",
+        f"Comparação entre cenários — {n_rodadas} rodadas * {n_replicacoes} replicações",
         fontsize=13
     )
 
@@ -291,7 +288,6 @@ if __name__ == "__main__":
     for ax, chave, label in zip(axes.flat, CHAVES, LABELS_METR):
         medias, margens = [], []
         for s in CENARIOS:
-            # Pool de todas as replicações de todas as rodadas
             vals_global = [
                 mr[chave]
                 for r in todos_resultados.values()
@@ -301,10 +297,8 @@ if __name__ == "__main__":
             medias.append(estat["media"])
             margens.append(estat["margem"])
 
-        bars = ax.bar(x_pos, medias, width, color=[CORES_CENARIO[s] for s in CENARIOS],
-                      alpha=0.85, zorder=2)
-        ax.errorbar(x_pos, medias, yerr=margens, fmt="none",
-                    color="black", capsize=5, linewidth=1.5, zorder=3)
+        bars = ax.bar(x_pos, medias, width, color=[CORES_CENARIO[s] for s in CENARIOS], alpha=0.85, zorder=2)
+        ax.errorbar(x_pos, medias, yerr=margens, fmt="none", color="black", capsize=5, linewidth=1.5, zorder=3)
 
         ax.set_title(label, fontsize=10)
         ax.set_xticks(x_pos)
@@ -313,8 +307,7 @@ if __name__ == "__main__":
         ax.grid(True, axis="y", linestyle="--", alpha=0.5)
 
         for bar, m, mg in zip(bars, medias, margens):
-            ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + mg + 0.2,
-                    f"{m:.2f}", ha="center", va="bottom", fontsize=8)
+            ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + mg + 0.2, f"{m:.2f}", ha="center", va="bottom", fontsize=8)
 
     plt.tight_layout()
     grafico_global = os.path.join(results_dir, "comparacao_cenarios.png")
